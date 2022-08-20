@@ -1,0 +1,335 @@
+{
+  "GridId": "793eefae-17d2-4d0e-bb1a-bc06de1d618f",
+  "DataType": "workstyles",
+  "DataTypeResourceKey": "GridViewer.DataTypes.Workstyles",
+  "DetailsTitleResourceKey": "GridViewer.DetailsView.WorkstylesTitle",
+  "UseDetailsPanelSubtitle": true,
+  "SelectMode": "single",
+  "CrossPageSelectAll": false,
+  "OrderByColumn": null,
+  "AscendingOrder": true,
+  "PrimaryKey": "WorkstyleId",
+  "DisplayKey": "Workstyles",
+  "GridControls": [
+    "refresh",
+    "columnchooser",
+    "configmenu",
+    "resize"
+  ],
+  "ActionControls": [
+    {
+      "actionName": "add",
+      "actionMetaData": null,
+      "gridSettings": {
+        "alwaysEnabled": true,
+        "alwaysVisible": true,
+        "handlerType": "embedded",
+        "payloadSchemaMapping": null
+      },
+      "componentType": "button",
+      "componentSettings": {
+        "icon": "plus-circle",
+        "iconPosition": null,
+        "format": "action",
+        "label": "Add",
+        "resourceKey": "WPE.Workstyles.ButtonTitles.CreateNew",
+        "data": null,
+        "childMenuItems": null,
+        "iconSize": 0
+      },
+      "__description__": null
+    },
+    {
+      "actionName": "up",
+      "actionMetaData": null,
+      "gridSettings": {
+        "alwaysEnabled": false,
+        "alwaysVisible": false,
+        "handlerType": "server",
+        "payloadSchemaMapping": null
+      },
+      "componentType": "button",
+      "componentSettings": {
+        "icon": "caret-up",
+        "iconPosition": null,
+        "format": "action",
+        "label": "Up",
+        "resourceKey": "GridViewer.MenuItems.Up",
+        "data": null,
+        "childMenuItems": null,
+        "iconSize": 0
+      },
+      "__description__": null
+    },
+    {
+      "actionName": "down",
+      "actionMetaData": null,
+      "gridSettings": {
+        "alwaysEnabled": false,
+        "alwaysVisible": false,
+        "handlerType": "server",
+        "payloadSchemaMapping": null
+      },
+      "componentType": "button",
+      "componentSettings": {
+        "icon": "caret-down",
+        "iconPosition": null,
+        "format": "action",
+        "label": "Down",
+        "resourceKey": "GridViewer.MenuItems.Down",
+        "data": null,
+        "childMenuItems": null,
+        "iconSize": 0
+      },
+      "__description__": null
+    },
+    {
+      "actionName": "top",
+      "actionMetaData": null,
+      "gridSettings": {
+        "alwaysEnabled": false,
+        "alwaysVisible": false,
+        "handlerType": "server",
+        "payloadSchemaMapping": null
+      },
+      "componentType": "button",
+      "componentSettings": {
+        "icon": "arrow-to-top",
+        "iconPosition": null,
+        "format": "action",
+        "label": "Top",
+        "resourceKey": "GridViewer.MenuItems.Top",
+        "data": null,
+        "childMenuItems": null,
+        "iconSize": 18
+      },
+      "__description__": null
+    },
+    {
+      "actionName": "bottom",
+      "actionMetaData": null,
+      "gridSettings": {
+        "alwaysEnabled": false,
+        "alwaysVisible": false,
+        "handlerType": "server",
+        "payloadSchemaMapping": null
+      },
+      "componentType": "button",
+      "componentSettings": {
+        "icon": "arrow-to-bottom",
+        "iconPosition": null,
+        "format": "action",
+        "label": "Bottom",
+        "resourceKey": "GridViewer.MenuItems.Bottom",
+        "data": null,
+        "childMenuItems": null,
+        "iconSize": 18
+      },
+      "__description__": null
+    },
+    {
+      "actionName": "delete",
+      "actionMetaData": null,
+      "gridSettings": {
+        "alwaysEnabled": false,
+        "alwaysVisible": false,
+        "handlerType": "client-server",
+        "payloadSchemaMapping": {
+          "WorkstyleId": "WorkstyleId"
+        }
+      },
+      "componentType": "icon-button",
+      "componentSettings": {
+        "icon": "trash",
+        "iconPosition": null,
+        "format": "warning",
+        "label": "Delete",
+        "resourceKey": "GridViewer.MenuItems.Delete",
+        "data": null,
+        "childMenuItems": null,
+        "iconSize": 0
+      },
+      "__description__": null
+    }
+  ],
+  "Columns": [
+    {
+      "dataType": "icon",
+      "format": "single-select",
+      "hidden": null,
+      "visible": true,
+      "unfilterable": null,
+      "title": null,
+      "resourceKey": null,
+      "field": "__gridRowSingleSelectionIndicator__",
+      "width": 34,
+      "minWidth": 34,
+      "anchor": null,
+      "filterType": null,
+      "filterTitle": null,
+      "filterResourceKey": null,
+      "sortable": null
+    },
+    {
+      "dataType": "string",
+      "format": "data",
+      "hidden": null,
+      "visible": true,
+      "unfilterable": true,
+      "title": null,
+      "resourceKey": "WPE.Workstyles.ColumnTitles.Priority",
+      "field": "Priority",
+      "width": 80,
+      "minWidth": 80,
+      "anchor": null,
+      "filterType": "text",
+      "filterTitle": null,
+      "filterResourceKey": null,
+      "sortable": false
+    },
+    {
+      "dataType": "string",
+      "format": "url",
+      "hidden": null,
+      "visible": true,
+      "unfilterable": null,
+      "title": null,
+      "resourceKey": "WPE.Workstyles.ColumnTitles.Workstyles",
+      "field": "Workstyles",
+      "width": 120,
+      "minWidth": 120,
+      "anchor": null,
+      "filterType": "text",
+      "filterTitle": null,
+      "filterResourceKey": null,
+      "sortable": false
+    },
+    {
+      "dataType": "string",
+      "format": "data",
+      "hidden": null,
+      "visible": true,
+      "unfilterable": null,
+      "title": null,
+      "resourceKey": "WPE.Workstyles.ColumnTitles.Enabled",
+      "field": "Enabled",
+      "width": 100,
+      "minWidth": 100,
+      "anchor": null,
+      "filterType": "text",
+      "filterTitle": null,
+      "filterResourceKey": null,
+      "sortable": false
+    },
+    {
+      "dataType": "string",
+      "format": "data",
+      "hidden": null,
+      "visible": true,
+      "unfilterable": null,
+      "title": null,
+      "resourceKey": "WPE.Workstyles.ColumnTitles.EnabledOnDemand",
+      "field": "EnabledOnDemand",
+      "width": 120,
+      "minWidth": 120,
+      "anchor": null,
+      "filterType": "text",
+      "filterTitle": null,
+      "filterResourceKey": null,
+      "sortable": false
+    },
+    {
+      "dataType": "string",
+      "format": "data",
+      "hidden": null,
+      "visible": true,
+      "unfilterable": null,
+      "title": null,
+      "resourceKey": "WPE.Workstyles.ColumnTitles.AppRules",
+      "field": "AppRules",
+      "width": 90,
+      "minWidth": 90,
+      "anchor": null,
+      "filterType": "text",
+      "filterTitle": null,
+      "filterResourceKey": null,
+      "sortable": false
+    },
+    {
+      "dataType": "string",
+      "format": "data",
+      "hidden": null,
+      "visible": true,
+      "unfilterable": null,
+      "title": null,
+      "resourceKey": "WPE.Workstyles.ColumnTitles.OnDemandRules",
+      "field": "OnDemandRules",
+      "width": 130,
+      "minWidth": 130,
+      "anchor": null,
+      "filterType": "text",
+      "filterTitle": null,
+      "filterResourceKey": null,
+      "sortable": false
+    },
+    {
+      "dataType": "string",
+      "format": "data",
+      "hidden": null,
+      "visible": true,
+      "unfilterable": null,
+      "title": null,
+      "resourceKey": "WPE.Workstyles.ColumnTitles.Description",
+      "field": "Description",
+      "width": 190,
+      "minWidth": 120,
+      "anchor": null,
+      "filterType": "text",
+      "filterTitle": null,
+      "filterResourceKey": null,
+      "sortable": false
+    },
+    {
+      "dataType": "string",
+      "format": "data",
+      "hidden": true,
+      "visible": false,
+      "unfilterable": null,
+      "title": null,
+      "resourceKey": "GridViewer.ColumnTitles.WorkstyleId",
+      "field": "WorkstyleId",
+      "width": null,
+      "minWidth": null,
+      "anchor": null,
+      "filterType": null,
+      "filterTitle": null,
+      "filterResourceKey": null,
+      "sortable": null
+    },
+    {
+      "dataType": "icon",
+      "format": "action",
+      "hidden": null,
+      "visible": true,
+      "unfilterable": null,
+      "title": null,
+      "resourceKey": null,
+      "field": "__actionableKeys__",
+      "width": 48,
+      "minWidth": 48,
+      "anchor": "last",
+      "filterType": null,
+      "filterTitle": null,
+      "filterResourceKey": null,
+      "sortable": null
+    }
+  ],
+  "MultiIconSchema": null,
+  "LinkedReports": null,
+  "QuickLinks": [],
+  "Filters": [],
+  "ColumnIconButton": null,
+  "RowMenu": null,
+  "FilterDataFormatters": null,
+  "GridDataFormatters": null
+}

@@ -1,0 +1,4656 @@
+{
+  "featureTemplate": {
+    "featureTemplateId": "FT:763c379f-d499-4983-a2de-4db74b874e07",
+    "featureTemplateDesc": "IT Team Template",
+    "features": [
+      {
+        "featureId": "Feature:4ae1e583-423d-4287-9cd4-3b6a17a8a0f5",
+        "featureName": "Bag Navigation",
+        "featureDesc": null,
+        "functionalGroup": "Application Navigation",
+        "featureCd": "BAG",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:2d23566c-259d-4700-b865-5dac8c24ca7a",
+        "featureName": "Apis Navigation",
+        "featureDesc": null,
+        "functionalGroup": "Application Navigation",
+        "featureCd": "APIS",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:396a706b-e427-43d3-990d-b915d6873ed4",
+        "featureName": "RBACNavigation",
+        "featureDesc": null,
+        "functionalGroup": "Application Navigation",
+        "featureCd": "RBACADMIN",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:a050c056-5c2d-44e8-abc9-1f5878cd2300",
+        "featureName": "Seat-Navigation",
+        "featureDesc": null,
+        "functionalGroup": "Application Navigation",
+        "featureCd": "SEATNAV",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:242c32dc-f02a-49cd-9815-118c5e8f568a",
+        "featureName": "SSR-Navigation",
+        "featureDesc": null,
+        "functionalGroup": "Application Navigation",
+        "featureCd": "SSRNAV",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:5f1f34f0-ecb4-42b3-977b-b1012a834ae6",
+        "featureName": "Manage-printer-Navigation",
+        "featureDesc": null,
+        "functionalGroup": "Application Navigation",
+        "featureCd": "PRINTERNAV",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:736225f4-fd82-47fc-a13c-cbec14119f68",
+        "featureName": "PNR-Shell-Navigation",
+        "featureDesc": null,
+        "functionalGroup": "Application Navigation",
+        "featureCd": "PNRSHELL",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:b10ee1bd-71d8-494a-8ccb-7c6f12cae4a2",
+        "featureName": "Customer-Level-Navigation",
+        "featureDesc": null,
+        "functionalGroup": "Application Navigation",
+        "featureCd": "CUSTOMER_LEVEL_NAV",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:e194c948-f313-4177-a7d0-9f2eae8c4795",
+        "featureName": "Receipts-and-Refunds-Navigation",
+        "featureDesc": null,
+        "functionalGroup": "Application Navigation",
+        "featureCd": "RECEIPTS_REFUNDS_NAV",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:999812b7-259c-4388-8026-e15bbb671320",
+        "featureName": "Travel-Options-Upgrades-Navigation",
+        "featureDesc": null,
+        "functionalGroup": "Application Navigation",
+        "featureCd": "UPGRADES",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:835a63bc-2406-4cf1-9549-9a0e57ad17d5",
+        "featureName": "Travel-Options-Premier-Access",
+        "featureDesc": null,
+        "functionalGroup": "Application Navigation",
+        "featureCd": "PREMIERACCESS",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:4471f2f7-b53f-46cf-98d0-637b75ae4f7e",
+        "featureName": "Travel-Options-Flight-Options",
+        "featureDesc": null,
+        "functionalGroup": "Application Navigation",
+        "featureCd": "FLIGHTOPTIONS",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:cc1af353-d557-4dd2-81d5-c2e1838199d5",
+        "featureName": "Travel-Options-Economy-Plus",
+        "featureDesc": null,
+        "functionalGroup": "Application Navigation",
+        "featureCd": "ECONOMYPLUS",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:e5031efd-ab17-4166-83af-d56231a49faf",
+        "featureName": "UMNRNavigation",
+        "featureDesc": null,
+        "functionalGroup": "Application Navigation",
+        "featureCd": "UMNRNAV",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:fa1a5037-60be-434f-87fd-3e532d6dc3c6",
+        "featureName": "AddEditLapInfant",
+        "featureDesc": null,
+        "functionalGroup": "Application Navigation",
+        "featureCd": "ADD-EDIT-LAPINFANT",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:2c30b79e-d0eb-40bf-90b2-2aefc82db06c",
+        "featureName": "Notification-Navigation",
+        "featureDesc": null,
+        "functionalGroup": "Application Navigation",
+        "featureCd": "NOTIFICATIONADMIN",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:3135c542-ce30-4658-a0aa-04b549d585fe",
+        "featureName": "AddSelectee",
+        "featureDesc": null,
+        "functionalGroup": "Application Navigation",
+        "featureCd": "ADDSELECTEE",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:20ddaa4b-ee77-4ab7-95bf-91f0129bb060",
+        "featureName": "Notification-Subscription",
+        "featureDesc": null,
+        "functionalGroup": "Application Navigation",
+        "featureCd": "SUBSCRIBE-NOTIFICATION",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:183825c4-2fec-4b58-8398-0a2b6e72a790",
+        "featureName": "EPlusForBEiBE",
+        "featureDesc": null,
+        "functionalGroup": "Application Navigation",
+        "featureCd": "EPLUSBEIBE",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:3633fe4d-1b86-4c9f-a958-5435ad3ef9a1",
+        "featureName": "Health-Check-Notification",
+        "featureDesc": null,
+        "functionalGroup": "Application Navigation",
+        "featureCd": "HEALTHCHECK",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:6459c9c6-e75f-4bca-9358-21beaabda166",
+        "featureName": "KioskQRScan",
+        "featureDesc": null,
+        "functionalGroup": "Application Navigation",
+        "featureCd": "KIOSK_QR_SCAN",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:f65a5c2c-dff9-4981-ac01-24b2fb2542e2",
+        "featureName": "Enable-Payment-Orch-Service",
+        "featureDesc": null,
+        "functionalGroup": "Application Navigation",
+        "featureCd": "CALL_PAYMENT_ORCH",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:14899efa-c0db-4ba6-afcc-bc1d920e5a69",
+        "featureName": "Enable_Passport_Scan_APIS",
+        "featureDesc": null,
+        "functionalGroup": "Application Navigation",
+        "featureCd": "APIS_PASSPORT_SCAN",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:82e57f0c-968e-4c5d-8a44-b2470bf42289",
+        "featureName": "Pnr_Management",
+        "featureDesc": null,
+        "functionalGroup": "Application Navigation",
+        "featureCd": "PNR_MGMT",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:3d183b7e-87f4-489a-83b7-a25d76bd0b28",
+        "featureName": "Same-Day-Change",
+        "featureDesc": null,
+        "functionalGroup": "Application Navigation",
+        "featureCd": "SAME_DAY_CHANGE",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:35eb7ecb-4041-439c-a8b4-112c6f86bfbe",
+        "featureName": "BJB-Navigation",
+        "featureDesc": null,
+        "functionalGroup": "Application Navigation",
+        "featureCd": "SHOW_BJB_LINK",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:915297c4-bfd2-412a-ae14-c1b4f9d5e0f6",
+        "featureName": "Old-Container",
+        "featureDesc": null,
+        "functionalGroup": "Application Navigation",
+        "featureCd": "OLD_CONTAINER",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": false,
+            "isAccessible": true
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": false,
+            "isAccessible": true
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": false,
+            "isAccessible": true
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:f82d5a00-6e64-4974-bd49-52a40645b910",
+        "featureName": "Show-ITMC",
+        "featureDesc": null,
+        "functionalGroup": "Application Navigation",
+        "featureCd": "SHOW_ITMC_LINK",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:cbbe9663-2ab5-4d14-8e47-0ac9d08a0b7c",
+        "featureName": "UMNR-Tracker-Navigation",
+        "featureDesc": null,
+        "functionalGroup": "Application Navigation",
+        "featureCd": "UMNRTRACKERNAV",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:debaadf2-2d64-4128-85f8-f7f0538f5328",
+        "featureName": "Add_paper_ticket",
+        "featureDesc": null,
+        "functionalGroup": "Application Navigation",
+        "featureCd": "ADD_PAPER_TKT",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:7e2f94e3-a1df-490d-93b5-c633b81468aa",
+        "featureName": "Frequent-Flyer",
+        "featureDesc": null,
+        "functionalGroup": "Application Navigation",
+        "featureCd": "FREQUENTFF",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:9b448aac-6d95-470a-9e7b-b5833db85537",
+        "featureName": "Add-To-Volunteer-List",
+        "featureDesc": null,
+        "functionalGroup": "Application Navigation",
+        "featureCd": "ADD_VOLUNTEER_LIST",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:16d36a1b-d5f4-4e53-a7cc-9e0f4714a8ef",
+        "featureName": "OvsIndicator",
+        "featureDesc": null,
+        "functionalGroup": "Application Navigation",
+        "featureCd": "OVS_INDICATOR",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:3179a9b3-dfac-4499-8bca-31b44b561efe",
+        "featureName": "LocallyBilled",
+        "featureDesc": null,
+        "functionalGroup": "Application Navigation",
+        "featureCd": "LOCALLYBILLED",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:e2410b4a-0a99-48c2-b85a-a27905ad7a33",
+        "featureName": "GS_Navigation",
+        "featureDesc": null,
+        "functionalGroup": "Application Navigation",
+        "featureCd": "GS_NAVIGATION",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:c16c53a4-681a-4313-8f20-ce0aae52ffc9",
+        "featureName": "MilitaryBagOverride",
+        "featureDesc": null,
+        "functionalGroup": "Application Navigation",
+        "featureCd": "MILITARYBAG_OVERRIDE",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:0181ea43-10b6-48c9-a991-f6f47f6deb12",
+        "featureName": "ITMC_Navigation",
+        "featureDesc": null,
+        "functionalGroup": "Application Navigation",
+        "featureCd": "ITMC_NAVIGATION",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:bba4771a-8215-4ce0-8da4-cf7ddc74364d",
+        "featureName": "Jet_Fuel",
+        "featureDesc": null,
+        "functionalGroup": "Application Navigation",
+        "featureCd": "JET_FUEL",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:454d22a2-a3a5-4243-91d1-12f5feafbecd",
+        "featureName": "Show_Wingtips",
+        "featureDesc": null,
+        "functionalGroup": "Application Navigation",
+        "featureCd": "SHOW_WINGTIPS",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:7c3812cc-243e-46af-91ef-27c7481fcbe4",
+        "featureName": "Show_Boarding_Manager",
+        "featureDesc": null,
+        "functionalGroup": "Application Navigation",
+        "featureCd": "VIEW_BM",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": false,
+            "isAccessible": true
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": false,
+            "isAccessible": true
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:80257ada-7b33-4aee-8776-d219b3f0ac6d",
+        "featureName": "Show_Iwant",
+        "featureDesc": null,
+        "functionalGroup": "Application Navigation",
+        "featureCd": "SHOW_IWANT",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:27022a4e-46fa-450c-b7a6-bb7771d0dba4",
+        "featureName": "FlifoNavigation",
+        "featureDesc": null,
+        "functionalGroup": "Application Navigation",
+        "featureCd": "FLIFO_NAVIGATION",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:87e2dbfe-351e-4d6b-b68c-fd6851c6cfc8",
+        "featureName": "TAP_Navigation",
+        "featureDesc": null,
+        "functionalGroup": "Application Navigation",
+        "featureCd": "TAP_NAVIGATION",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:202e91c1-5bba-49ce-8664-c4f89575241f",
+        "featureName": "Enable-Disable-fingerprint",
+        "featureDesc": null,
+        "functionalGroup": "Application Navigation",
+        "featureCd": "FINGERPRINT",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:e94e1adc-a771-4e48-a6c6-f5c819191910",
+        "featureName": "Enable-Qualtrics",
+        "featureDesc": null,
+        "functionalGroup": "Application Navigation",
+        "featureCd": "QUALTRICS",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:5b6bda47-4ad1-4e23-9cba-321728bf0569",
+        "featureName": "CardOnFile",
+        "featureDesc": null,
+        "functionalGroup": "Application Navigation",
+        "featureCd": "CARDONFILE",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:4ddce471-9790-4760-aa8d-b850c4c8b566",
+        "featureName": "HoldSeat",
+        "featureDesc": null,
+        "functionalGroup": "SeatFeatures",
+        "featureCd": "HOLDSEAT",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:98de650e-6f5b-4cde-ae61-0cb194f2059d",
+        "featureName": "UnassignSeats",
+        "featureDesc": null,
+        "functionalGroup": "SeatFeatures",
+        "featureCd": "UNASSIGNSEATS",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:d357e7a0-16d8-4a34-baa4-54dcbb8f186f",
+        "featureName": "ChangeHeldSeats",
+        "featureDesc": null,
+        "functionalGroup": "SeatFeatures",
+        "featureCd": "CHANGEHELDSEATS",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:7916b5e9-44a2-4d35-833f-052b5354fbaa",
+        "featureName": "SwapSeats",
+        "featureDesc": null,
+        "functionalGroup": "SeatFeatures",
+        "featureCd": "SWAPSEATS",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:36424132-6f1e-436b-8b0f-daa68a068799",
+        "featureName": "Reinstate",
+        "featureDesc": null,
+        "functionalGroup": "SeatFeatures",
+        "featureCd": "REINSTATE",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:73456cf5-413f-4739-a7e4-70ed68b65a73",
+        "featureName": "Unseat",
+        "featureDesc": null,
+        "functionalGroup": "SeatFeatures",
+        "featureCd": "UNSEAT",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:cc4f2aca-87cd-4218-9da1-8d9d63211de3",
+        "featureName": "GradeChange",
+        "featureDesc": null,
+        "functionalGroup": "SeatFeatures",
+        "featureCd": "GRADECHANGE",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:96a69462-edf1-4e1e-be8c-51b5d6fe40f9",
+        "featureName": "EnableSeatmap_3.0",
+        "featureDesc": null,
+        "functionalGroup": "SeatFeatures",
+        "featureCd": "SEATMAP.3.0",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:4d4c2639-b43e-45e5-b76c-4eff5fad5f7d",
+        "featureName": "Terms_Condition",
+        "featureDesc": null,
+        "functionalGroup": "SeatFeatures",
+        "featureCd": "LEGEND_TERM_COND",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:d907dd8e-506f-4ce5-9b9c-82cc5b83e564",
+        "featureName": "IssueEmd",
+        "featureDesc": null,
+        "functionalGroup": "ReceiptsAndRefundsFeatures",
+        "featureCd": "ISSUEEMD",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:84dad4df-201f-4979-ab11-6f7ed1d47232",
+        "featureName": "VoidTransaction",
+        "featureDesc": null,
+        "functionalGroup": "ReceiptsAndRefundsFeatures",
+        "featureCd": "VIODTRANSACTION",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:06fc69a7-05fd-4b10-842b-0bf76a88191d",
+        "featureName": "PartialRefund",
+        "featureDesc": null,
+        "functionalGroup": "ReceiptsAndRefundsFeatures",
+        "featureCd": "PARTIALREFUND",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:b14efca4-f172-48ac-a277-c482d3c8e17f",
+        "featureName": "FullRefund",
+        "featureDesc": null,
+        "functionalGroup": "ReceiptsAndRefundsFeatures",
+        "featureCd": "FULLREFUND",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:031d97d3-f87a-48d3-8d2e-c5bb73b076f1",
+        "featureName": "ReprintRecipt",
+        "featureDesc": null,
+        "functionalGroup": "ReceiptsAndRefundsFeatures",
+        "featureCd": "REPRINTRECIPT",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:c6e2bdc0-27db-4271-bfdf-5e90ce7e0cbc",
+        "featureName": "PaidPremiumUpgrades",
+        "featureDesc": null,
+        "functionalGroup": "UpgradesFeatures",
+        "featureCd": "PPU_UPGRADE",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:cc938929-5745-4da1-bd28-41508df6c1e9",
+        "featureName": "MileagePlusUpgradeAwards",
+        "featureDesc": null,
+        "functionalGroup": "UpgradesFeatures",
+        "featureCd": "MUA_UPGRADE",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:9fb5a336-5087-4763-a3f3-fc6309f2b431",
+        "featureName": "UnitedPlusPointsUpgrade",
+        "featureDesc": null,
+        "functionalGroup": "UpgradesFeatures",
+        "featureCd": "UPPU_UPGRADE",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:d524c11f-e363-47df-8fb6-ba400336f4ce",
+        "featureName": "CDC_Navigation",
+        "featureDesc": null,
+        "functionalGroup": "COVID-19",
+        "featureCd": "CDC_NAV",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:fe3d6a5d-cf43-4df4-84da-4da32a13a576",
+        "featureName": "DigitalAttestation",
+        "featureDesc": null,
+        "functionalGroup": "COVID-19",
+        "featureCd": "DA_NAV",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:2f8ca4e6-629c-474e-8e37-4bbbcd276a95",
+        "featureName": "Proclamation",
+        "featureDesc": null,
+        "functionalGroup": "COVID-19",
+        "featureCd": "PROCLAMATION",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": false,
+            "isAccessible": true
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": false,
+            "isAccessible": true
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": false,
+            "isAccessible": true
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:c62fc865-a51f-4b89-931d-bf7b49346683",
+        "featureName": "Vaccine",
+        "featureDesc": null,
+        "functionalGroup": "COVID-19",
+        "featureCd": "COVID_VACCINATION",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:f2ee3bbe-b841-4a9e-a7e7-0022cdd31164",
+        "featureName": "VaccineExemption",
+        "featureDesc": null,
+        "functionalGroup": "COVID-19",
+        "featureCd": "VACCINE_EXEMPTION",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:3d7ae6a5-b4fb-4840-9f8d-c80aaa9d9347",
+        "featureName": "CheckInHub_Nav",
+        "featureDesc": null,
+        "functionalGroup": "PnrManagement",
+        "featureCd": "PM_NAV_CHECKINHUB",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:f4ab9539-425e-4bfd-aae0-edd495fa1fc4",
+        "featureName": "HealthCheck_Nav",
+        "featureDesc": null,
+        "functionalGroup": "PnrManagement",
+        "featureCd": "PM_NAV_HEALTHCHECK",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:6ef31f18-8d54-4230-8394-75c0adae7ae6",
+        "featureName": "Association_Pnrs_Display",
+        "featureDesc": null,
+        "functionalGroup": "PnrManagement",
+        "featureCd": "ASSOC_DIS",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:77974bda-a8f1-47aa-b13f-5f4757aaa6ae",
+        "featureName": "AdvancedSearch_Nav",
+        "featureDesc": null,
+        "functionalGroup": "PnrManagement",
+        "featureCd": "PM_NAV_SEARCH",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:a4c5e2d9-4def-4803-9fdc-d4c07c395670",
+        "featureName": "Header_Badges_Display",
+        "featureDesc": null,
+        "functionalGroup": "PnrManagement",
+        "featureCd": "HEADER_BADGES_DIS",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:13384dd9-a6d1-4c80-b212-d8e77ccb8042",
+        "featureName": "Tickets",
+        "featureDesc": null,
+        "functionalGroup": "PnrManagement",
+        "featureCd": "PM_HUB_NAV_TICKETS",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:4782bb0b-6d0e-4223-b004-9ae40297562a",
+        "featureName": "Itinerary",
+        "featureDesc": null,
+        "functionalGroup": "PnrManagement",
+        "featureCd": "PM_HUB_NAV_ITINERARY",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:0758d4f5-6bbf-4632-bebd-57f50b931ff2",
+        "featureName": "Availability",
+        "featureDesc": null,
+        "functionalGroup": "PnrManagement",
+        "featureCd": "PM_HUB_NAV_AVAILABILITY",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:714d69fe-1d88-4671-9720-05a7705a58a1",
+        "featureName": "Rebook",
+        "featureDesc": null,
+        "functionalGroup": "PnrManagement",
+        "featureCd": "PM_HUB_NAV_REBOOK",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:50409894-c74e-4888-bc5e-2458e6e61bca",
+        "featureName": "SyncTickets",
+        "featureDesc": null,
+        "functionalGroup": "PnrManagement",
+        "featureCd": "PM_HUB_NAV_SYNC",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:6d8e009a-d274-402e-ae4d-00252aa1a75e",
+        "featureName": "ManageSSRs",
+        "featureDesc": null,
+        "functionalGroup": "PnrManagement",
+        "featureCd": "PM_HUB_NAV_SSR",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:82d10b8a-9cb1-4cfc-8cce-a53075cda165",
+        "featureName": "SplitAndDivide",
+        "featureDesc": null,
+        "functionalGroup": "PnrManagement",
+        "featureCd": "PM_HUB_NAV_SPLIT_AND_DIVIDE",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:a3b4d098-2e3f-4cb1-8677-3dbcdf61d768",
+        "featureName": "ManualSell",
+        "featureDesc": null,
+        "functionalGroup": "PnrManagement",
+        "featureCd": "PM_HUB_NAV_MANUAL_SELL",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:ac67b534-fa42-4f03-af73-c8d04a7cee8a",
+        "featureName": "Remarks",
+        "featureDesc": null,
+        "functionalGroup": "PnrManagement",
+        "featureCd": "PM_HUB_NAV_REMARKS",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:922e94c2-7cec-470c-909f-639476ada668",
+        "featureName": "History",
+        "featureDesc": null,
+        "functionalGroup": "PnrManagement",
+        "featureCd": "PM_HUB_NAV_HISTORY",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:164807d1-bcdc-4391-98a0-b015ebe8fad6",
+        "featureName": "PNROSI",
+        "featureDesc": null,
+        "functionalGroup": "PnrManagement",
+        "featureCd": "PM_HUB_NAV_OSI",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:d2cb25e3-abd4-4d45-a9f6-e3c5c8f2cc31",
+        "featureName": "MomentCare",
+        "featureDesc": null,
+        "functionalGroup": "PnrManagement",
+        "featureCd": "PM_HUB_NAV_MOMENT_CARE",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": true,
+            "isWritable": false,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": true,
+            "isWritable": false,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": true,
+            "isWritable": false,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:bd0e52ad-3e7c-4638-b93b-0f05011688e3",
+        "featureName": "ManageSeats",
+        "featureDesc": null,
+        "functionalGroup": "PnrManagement",
+        "featureCd": "PM_HUB_NAV_MANAGE_SEAT",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:94f01765-e9f8-4682-af4a-cf9b79bd4ed1",
+        "featureName": "EndAndRetrieve_Nav",
+        "featureDesc": null,
+        "functionalGroup": "PnrManagement",
+        "featureCd": "PM_HUB_NAV_END_AND_RETRIEVE",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:718c03bd-bbda-4a6c-9041-ffa9d91fff7f",
+        "featureName": "IgnoreAndRetrieve_Nav",
+        "featureDesc": null,
+        "functionalGroup": "PnrManagement",
+        "featureCd": "PM_HUB_NAV_IGNORE_AND_RETRIEVE",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:0412e593-3063-46c8-9f31-0285d3d5f4d6",
+        "featureName": "Frequent-Flyer_PM",
+        "featureDesc": null,
+        "functionalGroup": "PnrManagement",
+        "featureCd": "FREQUENTFF_PM",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:c33e3f8f-4153-4455-9037-ef689be084eb",
+        "featureName": "Travel_Documents",
+        "featureDesc": null,
+        "functionalGroup": "PnrManagement",
+        "featureCd": "TRAVEL_DOC",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": false,
+            "isAccessible": true
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": false,
+            "isAccessible": true
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": false,
+            "isAccessible": true
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:f971338f-5f47-40c9-9d21-366ae634ef12",
+        "featureName": "Nav_Api_Sfpd",
+        "featureDesc": null,
+        "functionalGroup": "PnrManagement",
+        "featureCd": "NAV_API_SFPD",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": true,
+            "isWritable": false,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": true,
+            "isWritable": false,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": true,
+            "isWritable": false,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:f38528c9-81ec-4e07-8dfa-0c22f3aa3a94",
+        "featureName": "Search_New_Account",
+        "featureDesc": null,
+        "functionalGroup": "PnrManagement",
+        "featureCd": "SEARCH_NEW_ACC",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": false,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": false,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": false,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:f0fd57a7-d03a-4e28-984d-7f16ed4d1772",
+        "featureName": "Other_Customer_Details",
+        "featureDesc": null,
+        "functionalGroup": "PnrManagement",
+        "featureCd": "OTHER_CUST_DETAILS",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": false,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": false,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": false,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:bebab064-4f95-43b1-9e4a-1316f7a05223",
+        "featureName": "Sled_Payment",
+        "featureDesc": null,
+        "functionalGroup": "PnrManagement",
+        "featureCd": "SLED_PAY",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": false,
+            "isAccessible": true
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": false,
+            "isAccessible": true
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": false,
+            "isAccessible": true
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:598ad031-d802-465c-a4c3-0d5b6604cf72",
+        "featureName": "View-Flifo",
+        "featureDesc": null,
+        "functionalGroup": "FlightManagement",
+        "featureCd": "VIEW_FLIFO",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:de16583d-8570-4298-976a-1fb940e971a1",
+        "featureName": "Manage-Flight",
+        "featureDesc": null,
+        "functionalGroup": "FlightManagement",
+        "featureCd": "MANAGE_FLIGHT",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:bfb52d69-a347-4724-9210-4792c41076c3",
+        "featureName": "HomeSearch-Flight",
+        "featureDesc": null,
+        "functionalGroup": "FlightManagement",
+        "featureCd": "HOME_FM",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:874706a8-d2cc-49fd-8074-6976608f6212",
+        "featureName": "AdvSearch-Flight",
+        "featureDesc": null,
+        "functionalGroup": "FlightManagement",
+        "featureCd": "ADV_FM",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:4d915f82-e332-4e32-8cc5-1af0bb08ab90",
+        "featureName": "Begin-Boarding",
+        "featureDesc": null,
+        "functionalGroup": "FlightManagement",
+        "featureCd": "FM_HUB_NAV_BEGIN_BOARDING",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:8c343c17-5c76-4791-8267-94e7e80d138b",
+        "featureName": "Restrict-Flight",
+        "featureDesc": null,
+        "functionalGroup": "FlightManagement",
+        "featureCd": "FM_HUB_NAV_RESTRICT_FLIGHT",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": true,
+            "isWritable": false,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": true,
+            "isWritable": false,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:09682f0f-7b69-43ae-8436-3ef736c08067",
+        "featureName": "Control-Sets",
+        "featureDesc": null,
+        "functionalGroup": "FlightManagement",
+        "featureCd": "FM_HUB_NAV_CONTROL_SETS",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:b646f3ee-02f9-4c99-a35c-e24b3b1a8793",
+        "featureName": "Jump-Seat",
+        "featureDesc": null,
+        "functionalGroup": "FlightManagement",
+        "featureCd": "FM_HUB_NAV_JUMP_SEAT",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": true,
+            "isWritable": false,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": true,
+            "isWritable": false,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": true,
+            "isWritable": false,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:f7e2d4c1-860e-48ea-b726-14bc674e810d",
+        "featureName": "Paper-Work",
+        "featureDesc": null,
+        "functionalGroup": "FlightManagement",
+        "featureCd": "FM_HUB_NAV_PAPER_WORK",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:120743ac-c5e3-4c0b-aa48-eb3fc6b538e2",
+        "featureName": "Moment-Care",
+        "featureDesc": null,
+        "functionalGroup": "FlightManagement",
+        "featureCd": "FM_HUB_NAV_MOMENT_CARE",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": true,
+            "isWritable": false,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": true,
+            "isWritable": false,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": true,
+            "isWritable": false,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:671b4a78-4545-4a7f-b9c9-2fd50308408c",
+        "featureName": "Over-Sell",
+        "featureDesc": null,
+        "functionalGroup": "FlightManagement",
+        "featureCd": "FM_HUB_NAV_OVER_SELL",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": true,
+            "isWritable": false,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": true,
+            "isWritable": false,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": true,
+            "isWritable": false,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:a5c667e9-50b1-48cf-9973-ded72ae03a1b",
+        "featureName": "Weight-Restriction",
+        "featureDesc": null,
+        "functionalGroup": "FlightManagement",
+        "featureCd": "FM_HUB_NAV_WEIGHT_RESTRICT",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": true,
+            "isWritable": false,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": true,
+            "isWritable": false,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": true,
+            "isWritable": false,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:1256db0c-bf0d-4f71-8e75-c828bf2413f1",
+        "featureName": "Manual-Bag",
+        "featureDesc": null,
+        "functionalGroup": "FlightManagement",
+        "featureCd": "FM_HUB_NAV_ADD_MANUAL_BAG",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": true,
+            "isWritable": false,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": true,
+            "isWritable": false,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": true,
+            "isWritable": false,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:88ea7cd7-2a2f-4de1-a4e3-fa13af245074",
+        "featureName": "Disable-SPA",
+        "featureDesc": null,
+        "functionalGroup": "FlightManagement",
+        "featureCd": "FM_HUB_NAV_DISABLE_SPA",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": true,
+            "isWritable": false,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": true,
+            "isWritable": false,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": true,
+            "isWritable": false,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:69005232-7e84-4145-868e-2910cf60b2c8",
+        "featureName": "Closeout-Flight",
+        "featureDesc": null,
+        "functionalGroup": "FlightManagement",
+        "featureCd": "FM_HUB_NAV_CLOSE_OUT_FLIGHT",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": true,
+            "isWritable": false,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": true,
+            "isWritable": false,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": true,
+            "isWritable": false,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:3b2fb4d6-f9bd-425f-9fe8-d1834fb57dc9",
+        "featureName": "All-Customers-List",
+        "featureDesc": null,
+        "functionalGroup": "FlightManagement",
+        "featureCd": "ALL_CUST_LIST",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:31d7f9a7-9820-4a84-bf41-233af4526377",
+        "featureName": "FM-SeatMap",
+        "featureDesc": null,
+        "functionalGroup": "FlightManagement",
+        "featureCd": "FM_SEATMAP",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:a293b765-a0c8-44a3-8c14-d810d62971fc",
+        "featureName": "Flight-GlanceView",
+        "featureDesc": null,
+        "functionalGroup": "FlightManagement",
+        "featureCd": "FLIGHT_GLANCE_VIEW",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:c42ef662-95c3-45ad-a77a-f9bd672c2027",
+        "featureName": "Flight-Totals",
+        "featureDesc": null,
+        "functionalGroup": "FlightManagement",
+        "featureCd": "FLIGHT_TOTALS",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:954e1cef-e95c-4d31-b4d0-aa24991b876b",
+        "featureName": "Unseat-List",
+        "featureDesc": null,
+        "functionalGroup": "FlightManagement",
+        "featureCd": "UNSEAT_LIST",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:e7e5d40c-4e88-407d-b498-7148af53a4ac",
+        "featureName": "Misconnect-List",
+        "featureDesc": null,
+        "functionalGroup": "FlightManagement",
+        "featureCd": "MISCONNECT_LIST",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:d7246249-ae1d-4c20-8367-2a55d767236f",
+        "featureName": "Crew-Verification",
+        "featureDesc": null,
+        "functionalGroup": "FlightManagement",
+        "featureCd": "FM_HUB_NAV_CREW_VERIFICATION",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:67bdf661-24b2-4e21-8c75-7f4fe7fc546d",
+        "featureName": "Initialize-Boarding",
+        "featureDesc": null,
+        "functionalGroup": "FlightManagement",
+        "featureCd": "FM_HUB_NAV_INITIALIZE_BOARDING",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:353a5ad5-bf90-4bf2-9211-2e30ab215bce",
+        "featureName": "Deplane-All",
+        "featureDesc": null,
+        "functionalGroup": "FlightManagement",
+        "featureCd": "FM_HUB_DEPLANE_ALL",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:17cb6f80-e428-45d0-a44d-8f8168c9a72f",
+        "featureName": "Deplane-mode-on",
+        "featureDesc": null,
+        "functionalGroup": "FlightManagement",
+        "featureCd": "FM_HUB_DEPLANE_MODEON",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:35a31389-d0a0-476b-ac82-1a5c8ba6d9ed",
+        "featureName": "Misconnect-unseat-all",
+        "featureDesc": null,
+        "functionalGroup": "FlightManagement",
+        "featureCd": "FM_HUB_MISCONNECT_UNSEAT_ALL",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:5e3c97d7-e61e-43f9-9f80-c7457ecdd0e2",
+        "featureName": "Gate-Equipment-change",
+        "featureDesc": null,
+        "functionalGroup": "FlightManagement",
+        "featureCd": "FM_HUB_GATEEQUIPMENT_CHANGE",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:e3afd2fb-34bb-40b6-bf34-5bdfd4ca50b3",
+        "featureName": "Reset-Boarding-Status",
+        "featureDesc": null,
+        "functionalGroup": "FlightManagement",
+        "featureCd": "FM_HUB_RESET_BOARDING_STATUS",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:cdca899d-a8ff-4084-ac7b-0590a13af842",
+        "featureName": "Flight-Status-Tracker",
+        "featureDesc": null,
+        "functionalGroup": "FlightManagement",
+        "featureCd": "FLIGHT_STATUS_TRACKER",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:fc24ed7c-0816-45fd-b5cd-9c5133d11fac",
+        "featureName": "Prc-Flight",
+        "featureDesc": null,
+        "functionalGroup": "FlightManagement",
+        "featureCd": "FM_HUB_PRC",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:73456cf5-413f-4739-a7e4-70ed68b65a73",
+        "featureName": "Unseat",
+        "featureDesc": null,
+        "functionalGroup": "FlightManagement",
+        "featureCd": "FM_HUB_UNSEAT",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": false,
+            "isAccessible": true
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:5ac8f4b8-27a2-440c-8afc-4f13c3b234a8",
+        "featureName": "Manage-Printer",
+        "featureDesc": null,
+        "functionalGroup": "FlightManagement",
+        "featureCd": "FM_HUB_NAV_MANAGE_PRINTERS",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:6f58505f-e46c-4243-a1e4-4555d292948e",
+        "featureName": "Boarding-Group-Progress",
+        "featureDesc": null,
+        "functionalGroup": "FlightManagement",
+        "featureCd": "FM_HUB_NAV_BOARDING_GROUP_PROGRESS",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:a611468d-f321-4a2d-a54c-4c5e8418d23e",
+        "featureName": "Close-Reopen-Flight",
+        "featureDesc": null,
+        "functionalGroup": "FlightManagement",
+        "featureCd": "FM_HUB_CLOSE_REOPEN",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:ec0dc72c-b5b5-46c6-83f7-cfd4514e7f71",
+        "featureName": "DROPDOWN-FOR-REC-UNREC",
+        "featureDesc": null,
+        "functionalGroup": "FlightManagement",
+        "featureCd": "DROPDOWN-FOR-REC-UNREC",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:3cca7c38-23d6-420d-9e34-761c0e50c658",
+        "featureName": "EncodeDecode",
+        "featureDesc": null,
+        "functionalGroup": "GlobalTools",
+        "featureCd": "ENCODE_DECODE",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": false,
+            "isAccessible": true
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:9160a225-5dce-4968-992d-a6c5bde9fec2",
+        "featureName": "E-TICKET-TABLE",
+        "featureDesc": null,
+        "functionalGroup": "GlobalTools",
+        "featureCd": "E-TICKET-TABLE",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:09607ff4-c377-4a76-b0ae-b31788570ddf",
+        "featureName": "PNR-Search",
+        "featureDesc": null,
+        "functionalGroup": "AdvancedCustomerSearch",
+        "featureCd": "SHOW_ONLY_PNR",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:f2762ed9-a231-42cd-974a-45ebd58c9812",
+        "featureName": "PNR-FF-Search",
+        "featureDesc": null,
+        "functionalGroup": "AdvancedCustomerSearch",
+        "featureCd": "SHOW_PNR_FF",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:77e20949-7042-4b58-a27b-fa472c44a027",
+        "featureName": "Advanced-Customer-Search",
+        "featureDesc": null,
+        "functionalGroup": "AdvancedCustomerSearch",
+        "featureCd": "ADVANCED_CUST_SEARCH",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:8f656a68-1c99-46df-a5bf-f9d064f53823",
+        "featureName": "Psd2-Main",
+        "featureDesc": null,
+        "functionalGroup": "Psd2Features",
+        "featureCd": "PSD2_MAIN",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:19447279-f492-401b-9cb1-e3e6f9983316",
+        "featureName": "Psd2-Nav-Payment",
+        "featureDesc": null,
+        "functionalGroup": "Psd2Features",
+        "featureCd": "PSD2_NAV_PAYMENT",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:cfd3f6d0-87a5-4df1-957b-3325349c77d0",
+        "featureName": "EmbargoRules",
+        "featureDesc": null,
+        "functionalGroup": "BagFeatures",
+        "featureCd": "EMBARGO_RULES",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": false,
+            "isAccessible": true
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": false,
+            "isAccessible": true
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": false,
+            "isAccessible": true
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:6b77c09c-1f87-43ba-9db4-1aae47f7d814",
+        "featureName": "BagRouting",
+        "featureDesc": null,
+        "functionalGroup": "BagFeatures",
+        "featureCd": "BAG_ROUTING",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": false,
+            "isAccessible": true
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": false,
+            "isAccessible": true
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": false,
+            "isAccessible": true
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:407ac040-19e0-4f0b-820e-c95ae7f660f7",
+        "featureName": "OverrideBagFee",
+        "featureDesc": null,
+        "functionalGroup": "BagFeatures",
+        "featureCd": "OVERRIDE_BAGFEE",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": false,
+            "isAccessible": true
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": false,
+            "isAccessible": true
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": false,
+            "isAccessible": true
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:b2476dd6-d59b-4c46-8fed-bd35b19bf30b",
+        "featureName": "ManualBagTag",
+        "featureDesc": null,
+        "functionalGroup": "BagFeatures",
+        "featureCd": "MANUAL_BAGTAG",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": false,
+            "isAccessible": true
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": false,
+            "isAccessible": true
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": false,
+            "isAccessible": true
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:fd7be374-a0be-438c-a204-cd376f74d75d",
+        "featureName": "Delete_Bag",
+        "featureDesc": null,
+        "functionalGroup": "BagFeatures",
+        "featureCd": "BAG_DELETE",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": false,
+            "isAccessible": true
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": false,
+            "isAccessible": true
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": false,
+            "isAccessible": true
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:adff974e-a699-415f-9877-e48e6a83f3f5",
+        "featureName": "Manual_Bag_Info",
+        "featureDesc": null,
+        "functionalGroup": "BagFeatures",
+        "featureCd": "MANUAL_BAG_INFO",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": false,
+            "isAccessible": true
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": false,
+            "isAccessible": true
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": false,
+            "isAccessible": true
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:dea3501c-7990-4059-8f57-8bf08a896450",
+        "featureName": "Manual_Bag_Fee",
+        "featureDesc": null,
+        "functionalGroup": "BagFeatures",
+        "featureCd": "MANUAL_UA_BAGFEE",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": false,
+            "isAccessible": true
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": false,
+            "isAccessible": true
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": false,
+            "isAccessible": true
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:45b7862a-f584-4c94-941a-6c137c94fd87",
+        "featureName": "View_Bag_History",
+        "featureDesc": null,
+        "functionalGroup": "BagFeatures",
+        "featureCd": "VIEW_BAG_HISTORY",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": false,
+            "isAccessible": true
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": false,
+            "isAccessible": true
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": false,
+            "isAccessible": true
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:0758d4f5-6bbf-4632-bebd-57f50b931ff2",
+        "featureName": "Availability",
+        "featureDesc": null,
+        "functionalGroup": "MoreMenuFeatures",
+        "featureCd": "FLIGHT_AVAIL",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:e5d84561-5aa6-4aa3-b676-e573c6cf3d1b",
+        "featureName": "Flightmonitor",
+        "featureDesc": null,
+        "functionalGroup": "MoreMenuFeatures",
+        "featureCd": "FLIGHT_MGMT",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:2be8b814-b9c5-4d6b-9f4b-c9f7e42bbd59",
+        "featureName": "Flight-options",
+        "featureDesc": null,
+        "functionalGroup": "MoreMenuFeatures",
+        "featureCd": "FLIGHT_OPTION_MORE",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:4525ea6a-601e-442f-80fc-1e424ff344d8",
+        "featureName": "Passenger-boarding-ACI-totals",
+        "featureDesc": null,
+        "functionalGroup": "MoreMenuFeatures",
+        "featureCd": "PASSENGER_BOARDING",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:2edc7095-fbe7-4682-a4b5-3874a903bf8c",
+        "featureName": "View-and-print-flight-list",
+        "featureDesc": null,
+        "functionalGroup": "MoreMenuFeatures",
+        "featureCd": "VIEW_PRINT_FLIGHT",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:cc3fab53-fa8b-460f-bd0c-5037834bd190",
+        "featureName": "Bag-tag-search",
+        "featureDesc": null,
+        "functionalGroup": "MoreMenuFeatures",
+        "featureCd": "BAG_TAG_SEARCH",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:13b19614-e198-4e04-aaa2-fb7a2a90c237",
+        "featureName": "EMD-search-issue",
+        "featureDesc": null,
+        "functionalGroup": "MoreMenuFeatures",
+        "featureCd": "EMDSEARCH",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:84f1e849-900e-4976-8773-64b44dc4b8e2",
+        "featureName": "E-ticket-common-city-table",
+        "featureDesc": null,
+        "functionalGroup": "MoreMenuFeatures",
+        "featureCd": "E_TICKET_TABLE",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:43249578-226e-44d4-9f6f-e6615cd36a4a",
+        "featureName": "Mileage-plus-search-enroll",
+        "featureDesc": null,
+        "functionalGroup": "MoreMenuFeatures",
+        "featureCd": "MILEAGE_PLUS",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:b97fa399-4cd3-4fe1-be74-b4a0ed1e7719",
+        "featureName": "Minimum-connection-time",
+        "featureDesc": null,
+        "functionalGroup": "MoreMenuFeatures",
+        "featureCd": "MIMIMUM_CON_TIME",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:8de645fe-b088-4f94-89ab-00b97ce4d322",
+        "featureName": "Firearm-alert",
+        "featureDesc": null,
+        "functionalGroup": "MoreMenuFeatures",
+        "featureCd": "FIREARM_ALERT",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:14abb4a1-f066-42e7-a5b4-cbc047012a08",
+        "featureName": "Security-fraud-report",
+        "featureDesc": null,
+        "functionalGroup": "MoreMenuFeatures",
+        "featureCd": "SECURITY_FRAUD",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:aee45b3b-1a3a-4ee9-babe-a3ebf4c9cfdc",
+        "featureName": "Security-pass",
+        "featureDesc": null,
+        "functionalGroup": "MoreMenuFeatures",
+        "featureCd": "SECURITY_PASS",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:acd61292-c25f-4500-babc-917099c23e37",
+        "featureName": "AO-communication",
+        "featureDesc": null,
+        "functionalGroup": "MoreMenuFeatures",
+        "featureCd": "AO_COMMCTON",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:a785030b-207d-43ad-bdf2-16b21bcf6595",
+        "featureName": "Employee-profile",
+        "featureDesc": null,
+        "functionalGroup": "MoreMenuFeatures",
+        "featureCd": "EMPLOYEE_PROFILE",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:cbb72768-98b3-4d26-a562-7ac95f11b068",
+        "featureName": "Employee-Feedback",
+        "featureDesc": null,
+        "functionalGroup": "MoreMenuFeatures",
+        "featureCd": "EMPLOYEE_FEEDBACK",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": false,
+            "isAccessible": true
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": false,
+            "isAccessible": true
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": false,
+            "isAccessible": true
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:78836f6b-19e9-4357-9a20-1b68101df116",
+        "featureName": "Keyboard-shortcuts",
+        "featureDesc": null,
+        "functionalGroup": "MoreMenuFeatures",
+        "featureCd": "KEYBOARD_SHORTCUTS",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:f69826bd-cf83-4092-857b-0f1e500b4fcf",
+        "featureName": "Report-a-Jet-defect",
+        "featureDesc": null,
+        "functionalGroup": "MoreMenuFeatures",
+        "featureCd": "JET_DEFECT",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:ef71b282-94c3-4a21-966f-bf23a7c30f0b",
+        "featureName": "Supervisor-tools",
+        "featureDesc": null,
+        "functionalGroup": "MoreMenuFeatures",
+        "featureCd": "SUPERVISOR_TOOLS",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:82e0da94-982c-46b0-8cd2-c9ea064bfaaf",
+        "featureName": "Training-how-tos",
+        "featureDesc": null,
+        "functionalGroup": "MoreMenuFeatures",
+        "featureCd": "TOS_TRAINING",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:27423b25-dd5d-4a2e-b396-2e6e0c66aa55",
+        "featureName": "Show-QA-Link",
+        "featureDesc": null,
+        "functionalGroup": "MoreMenuFeatures",
+        "featureCd": "SHOW_QA_LINK",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:e0e886bb-4281-4004-ba16-3b75716fdd30",
+        "featureName": "Manage-Printers",
+        "featureDesc": null,
+        "functionalGroup": "MoreMenuFeatures",
+        "featureCd": "MANAGE_PRINTERS",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:fdc3000c-7488-4f8e-a832-a9f2f615891a",
+        "featureName": "Show-SessionId",
+        "featureDesc": null,
+        "functionalGroup": "MoreMenuFeatures",
+        "featureCd": "SESSIONID",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:2f8275d9-386d-463b-a8e8-8369455de011",
+        "featureName": "Show-Magtek-Link",
+        "featureDesc": null,
+        "functionalGroup": "MoreMenuFeatures",
+        "featureCd": "SHOW_MAGTEK_LINK",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:c7ce27f8-1ba3-4ea5-bd26-b981be5409b8",
+        "featureName": "Show-Cognex-Link",
+        "featureDesc": null,
+        "functionalGroup": "MoreMenuFeatures",
+        "featureCd": "SHOW_COGNEX_LINK",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:e2c877b2-0ce7-40bd-b48f-fcdc1de1638a",
+        "featureName": "Show-Test-Swipe",
+        "featureDesc": null,
+        "functionalGroup": "MoreMenuFeatures",
+        "featureCd": "SWIPE_TEST",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:cb9c0aa8-605a-4fd9-97fe-03931d7807f9",
+        "featureName": "Manage-Payment-Devices",
+        "featureDesc": null,
+        "functionalGroup": "MoreMenuFeatures",
+        "featureCd": "PAYMENT_DEVICES",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      },
+      {
+        "featureId": "Feature:41b8b401-a2aa-4603-a2b7-ed76ceb093aa",
+        "featureName": "show-prs-connection",
+        "featureDesc": null,
+        "functionalGroup": "MoreMenuFeatures",
+        "featureCd": "SHOW_PRS_CONNECTION",
+        "formFactor": [
+          {
+            "type": "Tablet",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Mobile",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          },
+          {
+            "type": "Desktop",
+            "isReadable": false,
+            "isWritable": true,
+            "isAccessible": false
+          }
+        ]
+      }
+    ]
+  },
+  "errors": [],
+  "dataSource": "DYNAMO",
+  "alertFlag": null
+}
+

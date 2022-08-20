@@ -1,0 +1,69 @@
+{
+  "GridId": "95228fee-61a7-4552-9828-b89332d805da",
+  "DataType": "agentProtectionSettingsTitle",
+  "DataTypeResourceKey": "GridViewer.DataTypes.AgentProtectionSettings",
+  "DetailsTitleResourceKey": "GridViewer.DetailsView.AgentProtectionSettingsTitle",
+  "UseDetailsPanelSubtitle": false,
+  "SelectMode": "single",
+  "CrossPageSelectAll": false,
+  "OrderByColumn": null,
+  "AscendingOrder": true,
+  "PrimaryKey": "PublicKey",
+  "DisplayKey": "PublicKey",
+  "GridControls": [
+    "refresh",
+    "configmenu",
+    "resize"
+  ],
+  "ActionControls": [
+    {
+      "actionName": "generatekey",
+      "actionMetaData": null,
+      "gridSettings": {
+        "alwaysEnabled": true,
+        "alwaysVisible": true,
+        "handlerType": "embedded",
+        "payloadSchemaMapping": null
+      },
+      "componentType": "button",
+      "componentSettings": {
+        "icon": "plus-circle",
+        "iconPosition": null,
+        "format": "action",
+        "label": "Generate Key",
+        "resourceKey": "WPE.AgentProtectionSettings.ButtonTitles.GenerateKey",
+        "data": null,
+        "childMenuItems": null,
+        "iconSize": 0
+      },
+      "__description__": null
+    }
+  ],
+  "Columns": [
+    {
+      "dataType": "string",
+      "format": "data",
+      "hidden": null,
+      "visible": true,
+      "unfilterable": true,
+      "title": null,
+      "resourceKey": "WPE.AgentProtectionSettings.ColumnTitles.PublicKey",
+      "field": "PublicKey",
+      "width": 200,
+      "minWidth": 170,
+      "anchor": null,
+      "filterType": "text",
+      "filterTitle": null,
+      "filterResourceKey": null,
+      "sortable": false
+    }
+  ],
+  "MultiIconSchema": null,
+  "LinkedReports": null,
+  "QuickLinks": [],
+  "Filters": [],
+  "ColumnIconButton": null,
+  "RowMenu": null,
+  "FilterDataFormatters": null,
+  "GridDataFormatters": null
+}

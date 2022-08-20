@@ -1,0 +1,12 @@
+{
+  "entitlements": [
+    "gcr_admin",
+    "ERDM_Composite_User",
+    "dpa_content_administrator",
+    "ERDM_Administrator",
+    "iusers",
+    "Domain Users"
+  ],
+  "uid": "trpjc52",
+  "exp": "2022-03-13T05:48:08.000+00:00"
+}

@@ -1,0 +1,148 @@
+{
+  "key": "root",
+  "label": "BeyondTrust Privilege Management Settings",
+  "icon": null,
+  "children": [
+    {
+      "key": "windows.root",
+      "label": "Windows",
+      "icon": "windows",
+      "children": [
+        {
+          "key": "rules.root",
+          "label": "Workstyles (0)",
+          "icon": null,
+          "children": [],
+          "enabled": true,
+          "draggable": false
+        },
+        {
+          "key": "appgroups.root",
+          "label": "Application Groups (0)",
+          "icon": null,
+          "children": [],
+          "enabled": true,
+          "draggable": false
+        },
+        {
+          "key": "contentgroups.root",
+          "label": "Content Groups (0)",
+          "icon": null,
+          "children": [],
+          "enabled": true,
+          "draggable": false
+        },
+        {
+          "key": "messages.root",
+          "label": "Messages (0)",
+          "icon": null,
+          "children": [],
+          "enabled": true,
+          "draggable": false
+        }
+      ],
+      "enabled": true,
+      "draggable": false
+    },
+    {
+      "key": "mac.root",
+      "label": "macOS",
+      "icon": "apple",
+      "children": [
+        {
+          "key": "macrules.root",
+          "label": "Workstyles (0)",
+          "icon": null,
+          "children": [],
+          "enabled": true,
+          "draggable": false
+        },
+        {
+          "key": "macappgroups.root",
+          "label": "Application Groups (0)",
+          "icon": null,
+          "children": [],
+          "enabled": true,
+          "draggable": false
+        },
+        {
+          "key": "macmessages.root",
+          "label": "Messages (0)",
+          "icon": null,
+          "children": [],
+          "enabled": true,
+          "draggable": false
+        }
+      ],
+      "enabled": true,
+      "draggable": false
+    },
+    {
+      "key": "utilities.root",
+      "label": "Utilities",
+      "icon": "tools-solid",
+      "children": [
+        {
+          "key": "licensing",
+          "label": "Licenses (0)",
+          "icon": null,
+          "children": [],
+          "enabled": true,
+          "draggable": false
+        },
+        {
+          "key": "utilities.import",
+          "label": "Import Policy",
+          "icon": null,
+          "children": [],
+          "enabled": true,
+          "draggable": false
+        },
+        {
+          "key": "utilities.templates",
+          "label": "Template Policies",
+          "icon": null,
+          "children": [],
+          "enabled": true,
+          "draggable": false
+        },
+        {
+          "key": "utilities.scripts",
+          "label": "Manage Audit Scripts",
+          "icon": null,
+          "children": [],
+          "enabled": true,
+          "draggable": false
+        },
+        {
+          "key": "utilities.ruleScripts",
+          "label": "Manage Rule Scripts",
+          "icon": null,
+          "children": [],
+          "enabled": true,
+          "draggable": false
+        },
+        {
+          "key": "advAgentSettings",
+          "label": "Advanced Agent Settings",
+          "icon": null,
+          "children": [],
+          "enabled": true,
+          "draggable": false
+        },
+        {
+          "key": "agentProtectionSettings",
+          "label": "Agent Protection Settings",
+          "icon": null,
+          "children": [],
+          "enabled": true,
+          "draggable": false
+        }
+      ],
+      "enabled": true,
+      "draggable": false
+    }
+  ],
+  "enabled": true,
+  "draggable": false
+}

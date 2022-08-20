@@ -1,0 +1,11 @@
+{
+  "winAdminUserLogonCount": "<a href=\"/#!/user-session-details?interval=Last7Days&platform=Windows&ShowAdminLogons=true\">8</a>",
+  "winPrivilegedGroupModificationsBlockedCount": "<a href=\"/#!/priv-acct-details?interval=Last7Days&platform=Windows\">3</a>",
+  "winDiscoveredCount": "<a href=\"/#!/discovery/all/NotExpanded?interval=Last7Days&platform=Windows&RuleMatchType=All\">137</a>",
+  "winExternalSourcesCount": "<a href=\"/#!/target-types?interval=Last7Days&platform=Windows&ProcessesFromExternalSources=Any\">7</a>",
+  "winUacCount": "<a href=\"/#!/target-types?interval=Last7Days&platform=Windows&UACTriggered=true\">32</a>",
+  "winTapCount": "<a href=\"/#!/tap?interval=Last7Days&platform=Windows\">5</a>",
+  "winOnDemandCount": "<a href=\"/#!/target-types?interval=Last7Days&platform=Windows&OnDemandOrAuto=On-Demand\">9</a>",
+  "macAuthorizationCount": "<a href=\"/#!/events-all?interval=Last7Days&platform=osx&MessageType=Prompt\">4</a>",
+  "macDiscoveredCount": "<a href=\"/#!/discovery/all/NotExpanded?interval=Last7Days&platform=osx&RuleMatchType=All\">13</a>"
+}

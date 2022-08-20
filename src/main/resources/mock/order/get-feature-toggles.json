@@ -1,0 +1,18 @@
+{
+  "toggles": [
+    "editDiy",
+    "searchCgr",
+    "purchaser",
+    "addPurchaser",
+    "editPurchaser",
+    "createCustomer",
+    "createProCustomer",
+    "filterPurchaser",
+    "retrieveCustomer",
+    "postOrderBenefits",
+    "militaryDiscount",
+    "scanThreshold=5000",
+    "enablePingFed",
+    "enableScannerWS"
+  ]
+}

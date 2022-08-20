@@ -1,0 +1,23 @@
+{
+  "firstName" : "AMTEST",
+  "lastName" : "INTERNAL",
+  "role" : {
+    "userType" : "Internal",
+    "userRole" : "ROLE_EMGROUPSADMIN",
+    "paperlessSelectionRequired" : false,
+    "securityChanged" : false,
+    "user" : null,
+    "minimumAccess" : {
+      "primaryContact" : true,
+      "memberSearchAllowed" : true,
+      "memberMaintenanceAllowed" : true,
+      "viewInvoicesAllowed" : true,
+      "createGroupUsersAllowed" : true
+    },
+    "subGroupAccess" : null
+  },
+  "termsAndConditionsAccepted" : true,
+  "message" : "User was authenticated successfully.",
+  "userId" : "amtest",
+  "status" : "AuthenticationSuccessful"
+}

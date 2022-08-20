@@ -1,0 +1,650 @@
+{
+  "flight": {
+    "flightNumber": "960",
+    "origin": "EWR",
+    "destination": "FRA",
+    "flightDeptDate": "2022-03-23",
+    "flightLevelIndicators": [],
+    "totals": {
+      "pbt": [
+        {
+          "travelCountType": "Authorized",
+          "cabins": [
+            {
+              "code": "J",
+              "totalSeats": 0,
+              "isOverBooked": false
+            },
+            {
+              "code": "O",
+              "totalSeats": 0,
+              "isOverBooked": false
+            },
+            {
+              "code": "Y",
+              "totalSeats": 0,
+              "isOverBooked": false
+            }
+          ],
+          "totalSeats": 0,
+          "bookedCabins": null,
+          "displayCode": "Authorization"
+        },
+        {
+          "travelCountType": "Capacity",
+          "cabins": [
+            {
+              "code": "J",
+              "totalSeats": 44,
+              "isOverBooked": false
+            },
+            {
+              "code": "O",
+              "totalSeats": 21,
+              "isOverBooked": false
+            },
+            {
+              "code": "Y",
+              "totalSeats": 253,
+              "isOverBooked": false
+            }
+          ],
+          "totalSeats": 318,
+          "bookedCabins": null,
+          "displayCode": "Capacity"
+        },
+        {
+          "travelCountType": "Booked",
+          "cabins": [
+            {
+              "code": "J",
+              "totalSeats": 31,
+              "isOverBooked": false
+            },
+            {
+              "code": "O",
+              "totalSeats": 17,
+              "isOverBooked": false
+            },
+            {
+              "code": "Y",
+              "totalSeats": 191,
+              "isOverBooked": false
+            }
+          ],
+          "totalSeats": 239,
+          "bookedCabins": [
+            {
+              "travelCountType": "Positive Space",
+              "cabins": [
+                {
+                  "code": "J",
+                  "totalSeats": 1,
+                  "isOverBooked": false
+                },
+                {
+                  "code": "O",
+                  "totalSeats": 0,
+                  "isOverBooked": false
+                },
+                {
+                  "code": "Y",
+                  "totalSeats": 0,
+                  "isOverBooked": false
+                }
+              ],
+              "totalSeats": 1,
+              "bookedCabins": null,
+              "displayCode": "NRPS"
+            },
+            {
+              "travelCountType": "Held",
+              "cabins": [
+                {
+                  "code": "J",
+                  "totalSeats": 0,
+                  "isOverBooked": false
+                },
+                {
+                  "code": "O",
+                  "totalSeats": 0,
+                  "isOverBooked": false
+                },
+                {
+                  "code": "Y",
+                  "totalSeats": 0,
+                  "isOverBooked": false
+                }
+              ],
+              "totalSeats": 0,
+              "bookedCabins": null,
+              "displayCode": "Held seats"
+            },
+            {
+              "travelCountType": "Group",
+              "cabins": [
+                {
+                  "code": "J",
+                  "totalSeats": 0,
+                  "isOverBooked": false
+                },
+                {
+                  "code": "O",
+                  "totalSeats": 0,
+                  "isOverBooked": false
+                },
+                {
+                  "code": "Y",
+                  "totalSeats": 0,
+                  "isOverBooked": false
+                }
+              ],
+              "totalSeats": 0,
+              "bookedCabins": null,
+              "displayCode": "Group"
+            }
+          ],
+          "displayCode": "Booked"
+        },
+        {
+          "travelCountType": "Available",
+          "cabins": [
+            {
+              "code": "J",
+              "totalSeats": 13,
+              "isOverBooked": false
+            },
+            {
+              "code": "O",
+              "totalSeats": 4,
+              "isOverBooked": false
+            },
+            {
+              "code": "Y",
+              "totalSeats": 62,
+              "isOverBooked": false
+            }
+          ],
+          "totalSeats": 79,
+          "bookedCabins": null,
+          "displayCode": "Available"
+        },
+        {
+          "travelCountType": "Revenue Standby",
+          "cabins": [
+            {
+              "code": "J",
+              "totalSeats": 0,
+              "isOverBooked": false
+            },
+            {
+              "code": "O",
+              "totalSeats": 0,
+              "isOverBooked": false
+            },
+            {
+              "code": "Y",
+              "totalSeats": 0,
+              "isOverBooked": false
+            }
+          ],
+          "totalSeats": 0,
+          "bookedCabins": null,
+          "displayCode": "Rev-Standby"
+        },
+        {
+          "travelCountType": "NRSA Standby",
+          "cabins": [
+            {
+              "code": "J",
+              "totalSeats": 2,
+              "isOverBooked": false
+            },
+            {
+              "code": "O",
+              "totalSeats": 1,
+              "isOverBooked": false
+            },
+            {
+              "code": "Y",
+              "totalSeats": 0,
+              "isOverBooked": false
+            }
+          ],
+          "totalSeats": 3,
+          "bookedCabins": null,
+          "displayCode": "NRSA"
+        },
+        {
+          "travelCountType": "OperationalHold",
+          "cabins": [
+            {
+              "code": "J",
+              "totalSeats": 0,
+              "isOverBooked": false
+            },
+            {
+              "code": "O",
+              "totalSeats": 0,
+              "isOverBooked": false
+            },
+            {
+              "code": "Y",
+              "totalSeats": 0,
+              "isOverBooked": false
+            }
+          ],
+          "totalSeats": 0,
+          "bookedCabins": null,
+          "displayCode": "U Block"
+        }
+      ],
+      "aci": [
+        {
+          "travelCountType": "actualCapacity",
+          "cabins": [
+            {
+              "code": "j",
+              "totalSeats": 44,
+              "isOverBooked": false
+            },
+            {
+              "code": "o",
+              "totalSeats": 21,
+              "isOverBooked": false
+            },
+            {
+              "code": "y",
+              "totalSeats": 253,
+              "isOverBooked": false
+            }
+          ],
+          "totalSeats": 318,
+          "bookedCabins": null,
+          "displayCode": "Capacity"
+        },
+        {
+          "travelCountType": "bookedCount",
+          "cabins": [
+            {
+              "code": "j",
+              "totalSeats": 31,
+              "isOverBooked": false
+            },
+            {
+              "code": "o",
+              "totalSeats": 17,
+              "isOverBooked": false
+            },
+            {
+              "code": "y",
+              "totalSeats": 191,
+              "isOverBooked": false
+            }
+          ],
+          "totalSeats": 239,
+          "bookedCabins": null,
+          "displayCode": "Booked"
+        },
+        {
+          "travelCountType": "authorized",
+          "cabins": [
+            {
+              "code": "j",
+              "totalSeats": 44,
+              "isOverBooked": false
+            },
+            {
+              "code": "o",
+              "totalSeats": 25,
+              "isOverBooked": false
+            },
+            {
+              "code": "y",
+              "totalSeats": 256,
+              "isOverBooked": false
+            }
+          ],
+          "totalSeats": 325,
+          "bookedCabins": null,
+          "displayCode": "Authorization"
+        },
+        {
+          "travelCountType": "grp",
+          "cabins": [
+            {
+              "code": "j",
+              "totalSeats": 0,
+              "isOverBooked": false
+            },
+            {
+              "code": "o",
+              "totalSeats": 0,
+              "isOverBooked": false
+            },
+            {
+              "code": "y",
+              "totalSeats": 0,
+              "isOverBooked": false
+            }
+          ],
+          "totalSeats": 0,
+          "bookedCabins": null,
+          "displayCode": "Group"
+        },
+        {
+          "travelCountType": "Revenue Standby",
+          "cabins": [
+            {
+              "code": "j",
+              "totalSeats": 0,
+              "isOverBooked": false
+            },
+            {
+              "code": "o",
+              "totalSeats": 0,
+              "isOverBooked": false
+            },
+            {
+              "code": "y",
+              "totalSeats": 0,
+              "isOverBooked": false
+            }
+          ],
+          "totalSeats": 0,
+          "bookedCabins": null,
+          "displayCode": "Rev-Standby"
+        },
+        {
+          "travelCountType": "nrps",
+          "cabins": [
+            {
+              "code": "j",
+              "totalSeats": 1,
+              "isOverBooked": false
+            },
+            {
+              "code": "o",
+              "totalSeats": 0,
+              "isOverBooked": false
+            },
+            {
+              "code": "y",
+              "totalSeats": 0,
+              "isOverBooked": false
+            }
+          ],
+          "totalSeats": 1,
+          "bookedCabins": null,
+          "displayCode": "NRPS"
+        },
+        {
+          "travelCountType": "nrsa",
+          "cabins": [
+            {
+              "code": "j",
+              "totalSeats": 2,
+              "isOverBooked": false
+            },
+            {
+              "code": "o",
+              "totalSeats": 1,
+              "isOverBooked": false
+            },
+            {
+              "code": "y",
+              "totalSeats": 0,
+              "isOverBooked": false
+            }
+          ],
+          "totalSeats": 3,
+          "bookedCabins": null,
+          "displayCode": "NRSA"
+        },
+        {
+          "travelCountType": "throughCheckedIn",
+          "cabins": [
+            {
+              "code": "j",
+              "totalSeats": 0,
+              "isOverBooked": false
+            },
+            {
+              "code": "o",
+              "totalSeats": 0,
+              "isOverBooked": false
+            },
+            {
+              "code": "y",
+              "totalSeats": 0,
+              "isOverBooked": false
+            }
+          ],
+          "totalSeats": 0,
+          "bookedCabins": null,
+          "displayCode": "Thru checked-in"
+        },
+        {
+          "travelCountType": "heldCount",
+          "cabins": [
+            {
+              "code": "j",
+              "totalSeats": 26,
+              "isOverBooked": false
+            },
+            {
+              "code": "o",
+              "totalSeats": 11,
+              "isOverBooked": false
+            },
+            {
+              "code": "y",
+              "totalSeats": 101,
+              "isOverBooked": false
+            }
+          ],
+          "totalSeats": 138,
+          "bookedCabins": null,
+          "displayCode": "Held seats"
+        },
+        {
+          "travelCountType": "children",
+          "cabins": [
+            {
+              "code": "j",
+              "totalSeats": 0,
+              "isOverBooked": false
+            },
+            {
+              "code": "o",
+              "totalSeats": 0,
+              "isOverBooked": false
+            },
+            {
+              "code": "y",
+              "totalSeats": 5,
+              "isOverBooked": false
+            }
+          ],
+          "totalSeats": 5,
+          "bookedCabins": null,
+          "displayCode": "Children"
+        },
+        {
+          "travelCountType": "infants",
+          "cabins": [
+            {
+              "code": "j",
+              "totalSeats": 0,
+              "isOverBooked": false
+            },
+            {
+              "code": "o",
+              "totalSeats": 0,
+              "isOverBooked": false
+            },
+            {
+              "code": "y",
+              "totalSeats": 0,
+              "isOverBooked": false
+            }
+          ],
+          "totalSeats": 0,
+          "bookedCabins": null,
+          "displayCode": "Infant"
+        },
+        {
+          "travelCountType": "bags",
+          "cabins": [
+            {
+              "code": "j",
+              "totalSeats": 0,
+              "isOverBooked": false
+            },
+            {
+              "code": "o",
+              "totalSeats": 0,
+              "isOverBooked": false
+            },
+            {
+              "code": "y",
+              "totalSeats": 0,
+              "isOverBooked": false
+            }
+          ],
+          "totalSeats": 0,
+          "bookedCabins": null,
+          "displayCode": "Bags"
+        },
+        {
+          "travelCountType": "totalCheckdIn",
+          "cabins": [
+            {
+              "code": "j",
+              "totalSeats": 0,
+              "isOverBooked": false
+            },
+            {
+              "code": "o",
+              "totalSeats": 0,
+              "isOverBooked": false
+            },
+            {
+              "code": "y",
+              "totalSeats": 1,
+              "isOverBooked": false
+            }
+          ],
+          "totalSeats": 1,
+          "bookedCabins": null,
+          "displayCode": "Checked In"
+        }
+      ],
+      "boarding": [
+        {
+          "travelCountType": "reconciled",
+          "cabins": [
+            {
+              "code": "J",
+              "totalSeats": 0,
+              "isOverBooked": false
+            },
+            {
+              "code": "o",
+              "totalSeats": 0,
+              "isOverBooked": false
+            },
+            {
+              "code": "Y",
+              "totalSeats": 0,
+              "isOverBooked": false
+            }
+          ],
+          "totalSeats": 0,
+          "bookedCabins": null,
+          "displayCode": "Reconciled"
+        },
+        {
+          "travelCountType": "thru",
+          "cabins": [],
+          "totalSeats": 0,
+          "bookedCabins": null,
+          "displayCode": "Thru"
+        },
+        {
+          "travelCountType": "unreconciled",
+          "cabins": [
+            {
+              "code": "J",
+              "totalSeats": 0,
+              "isOverBooked": false
+            },
+            {
+              "code": "o",
+              "totalSeats": 0,
+              "isOverBooked": false
+            },
+            {
+              "code": "Y",
+              "totalSeats": 0,
+              "isOverBooked": false
+            }
+          ],
+          "totalSeats": 0,
+          "bookedCabins": null,
+          "displayCode": "Unreconciled"
+        },
+        {
+          "travelCountType": "children",
+          "cabins": [
+            {
+              "code": "J",
+              "totalSeats": 0,
+              "isOverBooked": false
+            },
+            {
+              "code": "o",
+              "totalSeats": 0,
+              "isOverBooked": false
+            },
+            {
+              "code": "Y",
+              "totalSeats": 0,
+              "isOverBooked": false
+            }
+          ],
+          "totalSeats": 0,
+          "bookedCabins": null,
+          "displayCode": "Children"
+        },
+        {
+          "travelCountType": "infant",
+          "cabins": [
+            {
+              "code": "J",
+              "totalSeats": 0,
+              "isOverBooked": false
+            },
+            {
+              "code": "o",
+              "totalSeats": 0,
+              "isOverBooked": false
+            },
+            {
+              "code": "Y",
+              "totalSeats": 0,
+              "isOverBooked": false
+            }
+          ],
+          "totalSeats": 0,
+          "bookedCabins": null,
+          "displayCode": "Infant"
+        }
+      ]
+    },
+    "weightRestrictedCabins": []
+  },
+  "dataSource": "CSL",
+  "errors": null
+}
+

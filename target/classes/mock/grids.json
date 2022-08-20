@@ -1,0 +1,658 @@
+{
+  "GridId": "42c620d5-0e0b-4219-aabf-4604a72db6a9",
+  "Rows": [
+    {
+      "Data": {
+        "AuthSource": "<None>",
+        "Description": "Authorize Safari",
+        "EventCategory": "Process Control",
+        "UserName": "admins-Mac\\siri",
+        "Platform": "Mac",
+        "EventType": "100 (Add Admin Rights)",
+        "EventTime": {
+          "text" : "2021-12-31T19:48:36",
+          "url" : "/event/1234"
+        },
+        "Reputation": "Pending",
+        "Workstyle": "Workstyle",
+        "ElevationMethod": "AutoAuthorized",
+        "HostName": "admins-Mac.local"
+      },
+      "MenuPayload": [
+        {
+          "actionName": null,
+          "actionMetaData": null,
+          "gridSettings": {
+            "alwaysEnabled": null,
+            "alwaysVisible": null,
+            "handlerType": "native",
+            "payloadSchemaMapping": null
+          },
+          "componentType": "HorizontalRule",
+          "componentSettings": {
+            "icon": null,
+            "iconPosition": null,
+            "format": null,
+            "label": null,
+            "resourceKey": null,
+            "data": null,
+            "childMenuItems": null,
+            "iconSize": 0
+          },
+          "__description__": null
+        }
+      ],
+      "Actionables": null,
+      "GridActionPayloads": null,
+      "IconButton": null,
+      "MultiIconPayload": null
+    },
+    {
+      "Data": {
+        "AuthSource": "<None>",
+        "Description": "Authorize Date & Time",
+        "EventCategory": "Process Control",
+        "UserName": "admins-Mac\\admin",
+        "Platform": "Mac",
+        "EventType": "100 (Add Admin Rights)",
+        "EventTime": "2022-01-03T19:48:36",
+        "Reputation": "Pending",
+        "Workstyle": "ADMIN ONLY",
+        "ElevationMethod": "AutoAuthorized",
+        "HostName": "admins-Mac.local"
+      },
+      "MenuPayload": [
+        {
+          "actionName": null,
+          "actionMetaData": null,
+          "gridSettings": {
+            "alwaysEnabled": null,
+            "alwaysVisible": null,
+            "handlerType": "native",
+            "payloadSchemaMapping": null
+          },
+          "componentType": "HorizontalRule",
+          "componentSettings": {
+            "icon": null,
+            "iconPosition": null,
+            "format": null,
+            "label": null,
+            "resourceKey": null,
+            "data": null,
+            "childMenuItems": null,
+            "iconSize": 0
+          },
+          "__description__": null
+        }
+      ],
+      "Actionables": null,
+      "GridActionPayloads": null,
+      "IconButton": null,
+      "MultiIconPayload": null
+    },
+    {
+      "Data": {
+        "AuthSource": "<None>",
+        "Description": "Authorize Mail",
+        "EventCategory": "Process Control",
+        "UserName": "admins-Mac\\siri",
+        "Platform": "Mac",
+        "EventType": "100 (Add Admin Rights)",
+        "EventTime": {
+          "text" : "2021-12-31T19:48:36",
+          "url" : "/event/123"
+        },
+        "Reputation": "Pending",
+        "Workstyle": "Workstyle",
+        "ElevationMethod": "AutoAuthorized",
+        "HostName": "admins-Mac.local"
+      },
+      "MenuPayload": [
+        {
+          "actionName": null,
+          "actionMetaData": null,
+          "gridSettings": {
+            "alwaysEnabled": null,
+            "alwaysVisible": null,
+            "handlerType": "native",
+            "payloadSchemaMapping": null
+          },
+          "componentType": "HorizontalRule",
+          "componentSettings": {
+            "icon": null,
+            "iconPosition": null,
+            "format": null,
+            "label": null,
+            "resourceKey": null,
+            "data": null,
+            "childMenuItems": null,
+            "iconSize": 0
+          },
+          "__description__": null
+        }
+      ],
+      "Actionables": null,
+      "GridActionPayloads": null,
+      "IconButton": null,
+      "MultiIconPayload": null
+    },
+    {
+      "Data": {
+        "AuthSource": "<None>",
+        "Description": "Authorize Contacts",
+        "EventCategory": "Process Control",
+        "UserName": "admins-Mac\\siri",
+        "Platform": "Mac",
+        "EventType": "100 (Add Admin Rights)",
+        "EventTime": "2021-12-28T19:48:36",
+        "Reputation": "Pending",
+        "Workstyle": "Workstyle",
+        "ElevationMethod": "AutoAuthorized",
+        "HostName": "admins-Mac.local"
+      },
+      "MenuPayload": [
+        {
+          "actionName": null,
+          "actionMetaData": null,
+          "gridSettings": {
+            "alwaysEnabled": null,
+            "alwaysVisible": null,
+            "handlerType": "native",
+            "payloadSchemaMapping": null
+          },
+          "componentType": "HorizontalRule",
+          "componentSettings": {
+            "icon": null,
+            "iconPosition": null,
+            "format": null,
+            "label": null,
+            "resourceKey": null,
+            "data": null,
+            "childMenuItems": null,
+            "iconSize": 0
+          },
+          "__description__": null
+        }
+      ],
+      "Actionables": null,
+      "GridActionPayloads": null,
+      "IconButton": null,
+      "MultiIconPayload": null
+    },
+    {
+      "Data": {
+        "AuthSource": "<None>",
+        "Description": "Cancel Notes",
+        "EventCategory": "Process Control",
+        "UserName": "admins-Mac\\siri",
+        "Platform": "Mac",
+        "EventType": "120 (User Cancelled)",
+        "EventTime": "2021-12-26T19:48:36",
+        "Reputation": "Pending",
+        "Workstyle": "Workstyle",
+        "ElevationMethod": null,
+        "HostName": "admins-Mac.local"
+      },
+      "MenuPayload": [
+        {
+          "actionName": null,
+          "actionMetaData": null,
+          "gridSettings": {
+            "alwaysEnabled": null,
+            "alwaysVisible": null,
+            "handlerType": "native",
+            "payloadSchemaMapping": null
+          },
+          "componentType": "HorizontalRule",
+          "componentSettings": {
+            "icon": null,
+            "iconPosition": null,
+            "format": null,
+            "label": null,
+            "resourceKey": null,
+            "data": null,
+            "childMenuItems": null,
+            "iconSize": 0
+          },
+          "__description__": null
+        }
+      ],
+      "Actionables": null,
+      "GridActionPayloads": null,
+      "IconButton": null,
+      "MultiIconPayload": null
+    },
+    {
+      "Data": {
+        "AuthSource": "<None>",
+        "Description": "Cancel Maps",
+        "EventCategory": "Process Control",
+        "UserName": "admins-Mac\\siri",
+        "Platform": "Mac",
+        "EventType": "120 (User Cancelled)",
+        "EventTime": "2021-12-21T19:48:36",
+        "Reputation": "Pending",
+        "Workstyle": "Workstyle",
+        "ElevationMethod": null,
+        "HostName": "admins-Mac.local"
+      },
+      "MenuPayload": [
+        {
+          "actionName": null,
+          "actionMetaData": null,
+          "gridSettings": {
+            "alwaysEnabled": null,
+            "alwaysVisible": null,
+            "handlerType": "native",
+            "payloadSchemaMapping": null
+          },
+          "componentType": "HorizontalRule",
+          "componentSettings": {
+            "icon": null,
+            "iconPosition": null,
+            "format": null,
+            "label": null,
+            "resourceKey": null,
+            "data": null,
+            "childMenuItems": null,
+            "iconSize": 0
+          },
+          "__description__": null
+        }
+      ],
+      "Actionables": null,
+      "GridActionPayloads": null,
+      "IconButton": null,
+      "MultiIconPayload": null
+    },
+    {
+      "Data": {
+        "AuthSource": "<None>",
+        "Description": "Passively Audit touch",
+        "EventCategory": "Process Control",
+        "UserName": "Anonymous\\Anonymous",
+        "Platform": "Mac",
+        "EventType": "106 (Passive - No Change)",
+        "EventTime": "2021-12-14T19:48:36",
+        "Reputation": "Pending",
+        "Workstyle": "Workstyle",
+        "ElevationMethod": "ManuallyAuthorized",
+        "HostName": "Anonymous"
+      },
+      "MenuPayload": [
+        {
+          "actionName": null,
+          "actionMetaData": null,
+          "gridSettings": {
+            "alwaysEnabled": null,
+            "alwaysVisible": null,
+            "handlerType": "native",
+            "payloadSchemaMapping": null
+          },
+          "componentType": "HorizontalRule",
+          "componentSettings": {
+            "icon": null,
+            "iconPosition": null,
+            "format": null,
+            "label": null,
+            "resourceKey": null,
+            "data": null,
+            "childMenuItems": null,
+            "iconSize": 0
+          },
+          "__description__": null
+        }
+      ],
+      "Actionables": null,
+      "GridActionPayloads": null,
+      "IconButton": null,
+      "MultiIconPayload": null
+    },
+    {
+      "Data": {
+        "AuthSource": "<None>",
+        "Description": "Authorize brew",
+        "EventCategory": "Process Control",
+        "UserName": "Elizabeths-Mac\\jacksparrow",
+        "Platform": "Mac",
+        "EventType": "100 (Add Admin Rights)",
+        "EventTime": "2021-12-04T19:48:36",
+        "Reputation": "Pending",
+        "Workstyle": "ScriptsKOOKIE",
+        "ElevationMethod": "AutoAuthorized",
+        "HostName": "Elizabeths-Mac.avecto.internal"
+      },
+      "MenuPayload": [
+        {
+          "actionName": null,
+          "actionMetaData": null,
+          "gridSettings": {
+            "alwaysEnabled": null,
+            "alwaysVisible": null,
+            "handlerType": "native",
+            "payloadSchemaMapping": null
+          },
+          "componentType": "HorizontalRule",
+          "componentSettings": {
+            "icon": null,
+            "iconPosition": null,
+            "format": null,
+            "label": null,
+            "resourceKey": null,
+            "data": null,
+            "childMenuItems": null,
+            "iconSize": 0
+          },
+          "__description__": null
+        }
+      ],
+      "Actionables": null,
+      "GridActionPayloads": null,
+      "IconButton": null,
+      "MultiIconPayload": null
+    },
+    {
+      "Data": {
+        "AuthSource": "<None>",
+        "Description": "Authorize curl",
+        "EventCategory": "Process Control",
+        "UserName": "admins-Mac\\siri",
+        "Platform": "Mac",
+        "EventType": "100 (Add Admin Rights)",
+        "EventTime": "2021-11-23T19:48:36",
+        "Reputation": "Pending",
+        "Workstyle": "Workstyle",
+        "ElevationMethod": "AutoAuthorized",
+        "HostName": "admins-Mac.local"
+      },
+      "MenuPayload": [
+        {
+          "actionName": null,
+          "actionMetaData": null,
+          "gridSettings": {
+            "alwaysEnabled": null,
+            "alwaysVisible": null,
+            "handlerType": "native",
+            "payloadSchemaMapping": null
+          },
+          "componentType": "HorizontalRule",
+          "componentSettings": {
+            "icon": null,
+            "iconPosition": null,
+            "format": null,
+            "label": null,
+            "resourceKey": null,
+            "data": null,
+            "childMenuItems": null,
+            "iconSize": 0
+          },
+          "__description__": null
+        }
+      ],
+      "Actionables": null,
+      "GridActionPayloads": null,
+      "IconButton": null,
+      "MultiIconPayload": null
+    },
+    {
+      "Data": {
+        "AuthSource": "<None>",
+        "Description": "Calculator has been deleted from the applications folder",
+        "EventCategory": "Process Control",
+        "UserName": "admins-Mac\\siri",
+        "Platform": "Mac",
+        "EventType": "131 (Bundle Deleted)",
+        "EventTime": "2021-11-21T19:48:36",
+        "Reputation": "Pending",
+        "Workstyle": "Workstyle",
+        "ElevationMethod": "Admin",
+        "HostName": "admins-Mac.local"
+      },
+      "MenuPayload": [
+        {
+          "actionName": null,
+          "actionMetaData": null,
+          "gridSettings": {
+            "alwaysEnabled": null,
+            "alwaysVisible": null,
+            "handlerType": "native",
+            "payloadSchemaMapping": null
+          },
+          "componentType": "HorizontalRule",
+          "componentSettings": {
+            "icon": null,
+            "iconPosition": null,
+            "format": null,
+            "label": null,
+            "resourceKey": null,
+            "data": null,
+            "childMenuItems": null,
+            "iconSize": 0
+          },
+          "__description__": null
+        }
+      ],
+      "Actionables": null,
+      "GridActionPayloads": null,
+      "IconButton": null,
+      "MultiIconPayload": null
+    },
+    {
+      "Data": {
+        "AuthSource": "<None>",
+        "Description": "Authorize curl",
+        "EventCategory": "Process Control",
+        "UserName": "admins-Mac\\siri",
+        "Platform": "Mac",
+        "EventType": "100 (Add Admin Rights)",
+        "EventTime": "2021-11-10T19:48:36",
+        "Reputation": "Pending",
+        "Workstyle": "Workstyle",
+        "ElevationMethod": "AutoAuthorized",
+        "HostName": "admins-Mac.local"
+      },
+      "MenuPayload": [
+        {
+          "actionName": null,
+          "actionMetaData": null,
+          "gridSettings": {
+            "alwaysEnabled": null,
+            "alwaysVisible": null,
+            "handlerType": "native",
+            "payloadSchemaMapping": null
+          },
+          "componentType": "HorizontalRule",
+          "componentSettings": {
+            "icon": null,
+            "iconPosition": null,
+            "format": null,
+            "label": null,
+            "resourceKey": null,
+            "data": null,
+            "childMenuItems": null,
+            "iconSize": 0
+          },
+          "__description__": null
+        }
+      ],
+      "Actionables": null,
+      "GridActionPayloads": null,
+      "IconButton": null,
+      "MultiIconPayload": null
+    },
+    {
+      "Data": {
+        "AuthSource": "<None>",
+        "Description": "sudo has been installed into the applications folder",
+        "EventCategory": "Process Control",
+        "UserName": "Anonymous\\Anonymous",
+        "Platform": "Mac",
+        "EventType": "130 (Bundle Installed)",
+        "EventTime": "2021-11-03T19:48:36",
+        "Reputation": "Pending",
+        "Workstyle": "Workstyle",
+        "ElevationMethod": "Admin",
+        "HostName": "Anonymous"
+      },
+      "MenuPayload": [
+        {
+          "actionName": null,
+          "actionMetaData": null,
+          "gridSettings": {
+            "alwaysEnabled": null,
+            "alwaysVisible": null,
+            "handlerType": "native",
+            "payloadSchemaMapping": null
+          },
+          "componentType": "HorizontalRule",
+          "componentSettings": {
+            "icon": null,
+            "iconPosition": null,
+            "format": null,
+            "label": null,
+            "resourceKey": null,
+            "data": null,
+            "childMenuItems": null,
+            "iconSize": 0
+          },
+          "__description__": null
+        }
+      ],
+      "Actionables": null,
+      "GridActionPayloads": null,
+      "IconButton": null,
+      "MultiIconPayload": null
+    },
+    {
+      "Data": {
+        "AuthSource": "<None>",
+        "Description": "Passively Audit install.sh",
+        "EventCategory": "Process Control",
+        "UserName": "admins-Mac\\siri",
+        "Platform": "Mac",
+        "EventType": "106 (Passive - No Change)",
+        "EventTime": "2021-10-31T19:48:36",
+        "Reputation": "Pending",
+        "Workstyle": "Workstyle",
+        "ElevationMethod": "ManuallyAuthorized",
+        "HostName": "admins-Mac.local"
+      },
+      "MenuPayload": [
+        {
+          "actionName": null,
+          "actionMetaData": null,
+          "gridSettings": {
+            "alwaysEnabled": null,
+            "alwaysVisible": null,
+            "handlerType": "native",
+            "payloadSchemaMapping": null
+          },
+          "componentType": "HorizontalRule",
+          "componentSettings": {
+            "icon": null,
+            "iconPosition": null,
+            "format": null,
+            "label": null,
+            "resourceKey": null,
+            "data": null,
+            "childMenuItems": null,
+            "iconSize": 0
+          },
+          "__description__": null
+        }
+      ],
+      "Actionables": null,
+      "GridActionPayloads": null,
+      "IconButton": null,
+      "MultiIconPayload": null
+    },
+    {
+      "Data": {
+        "AuthSource": "<None>",
+        "Description": "Authorize curl",
+        "EventCategory": "Process Control",
+        "UserName": "admins-Mac\\siri",
+        "Platform": "Mac",
+        "EventType": "100 (Add Admin Rights)",
+        "EventTime": "2021-10-28T20:48:36",
+        "Reputation": "Pending",
+        "Workstyle": "Workstyle",
+        "ElevationMethod": "AutoAuthorized",
+        "HostName": "admins-Mac.local"
+      },
+      "MenuPayload": [
+        {
+          "actionName": null,
+          "actionMetaData": null,
+          "gridSettings": {
+            "alwaysEnabled": null,
+            "alwaysVisible": null,
+            "handlerType": "native",
+            "payloadSchemaMapping": null
+          },
+          "componentType": "HorizontalRule",
+          "componentSettings": {
+            "icon": null,
+            "iconPosition": null,
+            "format": null,
+            "label": null,
+            "resourceKey": null,
+            "data": null,
+            "childMenuItems": null,
+            "iconSize": 0
+          },
+          "__description__": null
+        }
+      ],
+      "Actionables": null,
+      "GridActionPayloads": null,
+      "IconButton": null,
+      "MultiIconPayload": null
+    },
+    {
+      "Data": {
+        "AuthSource": "<None>",
+        "Description": "Authorize Terminal",
+        "EventCategory": "Process Control",
+        "UserName": "admins-Mac\\siri",
+        "Platform": "Mac",
+        "EventType": "100 (Add Admin Rights)",
+        "EventTime": "2021-10-18T20:48:36",
+        "Reputation": "Pending",
+        "Workstyle": "Workstyle",
+        "ElevationMethod": "AutoAuthorized",
+        "HostName": "admins-Mac.local"
+      },
+      "MenuPayload": [
+        {
+          "actionName": null,
+          "actionMetaData": null,
+          "gridSettings": {
+            "alwaysEnabled": null,
+            "alwaysVisible": null,
+            "handlerType": "native",
+            "payloadSchemaMapping": null
+          },
+          "componentType": "HorizontalRule",
+          "componentSettings": {
+            "icon": null,
+            "iconPosition": null,
+            "format": null,
+            "label": null,
+            "resourceKey": null,
+            "data": null,
+            "childMenuItems": null,
+            "iconSize": 0
+          },
+          "__description__": null
+        }
+      ],
+      "Actionables": null,
+      "GridActionPayloads": null,
+      "IconButton": null,
+      "MultiIconPayload": null
+    }
+  ],
+  "TotalRows": 15,
+  "Timestamp": null
+}

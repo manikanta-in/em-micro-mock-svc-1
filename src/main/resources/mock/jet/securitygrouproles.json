@@ -1,0 +1,13 @@
+{
+  "role": [
+    {
+      "priority": "1",
+      "roleId": "Role:560b9025-d647-4ba4-a049-ab0782aa4b55",
+      "roleName": "IT-Admin",
+      "roleDesc": "IT-Admin"
+    }
+  ],
+  "errors": [],
+  "dataSource": "DYNAMO",
+  "alertFlag": null
+}

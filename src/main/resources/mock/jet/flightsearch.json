@@ -1,0 +1,73 @@
+{
+  "flightDetails": [
+    {
+      "flights": [
+        {
+          "aircraftModel": "787-10",
+          "boardTime": "8:05 PM",
+          "flightNumber": "960",
+          "departureStation": "EWR",
+          "departureGate": "C121",
+          "scheduledDepartureTime": "3/23/2022 8:55 PM",
+          "scheduledDepartureUTCTime": "2022-03-24T00:55:00",
+          "estimatedDepartureTime": "3/23/2022 8:55 PM",
+          "estimatedDepartureUTCTime": "2022-03-24T00:55:00Z",
+          "arrivalStation": "FRA",
+          "arrivalGate": "HOLD",
+          "scheduledArrivalTime": "3/24/2022 9:15 AM",
+          "estimatedArrivalTime": "3/24/2022 9:15 AM",
+          "operatingAirlineCode": "UA",
+          "operatingAirlineIATACode": "UA",
+          "flightStatus": "CANCELLED",
+          "capacity": {
+            "firstClass": 21,
+            "business": 44,
+            "economy": 253
+          },
+          "bookedPassengersCount": {
+            "firstClass": 17,
+            "business": 31,
+            "economy": 191
+          },
+          "codeShareFlights": [
+            {
+              "marketingAirlineCode": "SN",
+              "flightNumber": "9003"
+            },
+            {
+              "marketingAirlineCode": "OS",
+              "flightNumber": "7839"
+            },
+            {
+              "marketingAirlineCode": "LH",
+              "flightNumber": "7602"
+            },
+            {
+              "marketingAirlineCode": "AC",
+              "flightNumber": "5684"
+            }
+          ],
+          "operatingAirlineName": "United Airlines",
+          "overSaleStatus": false,
+          "travelTime": 440,
+          "departureTerminal": "Terminal C, Concourse C3",
+          "arrivalTerminal": "--, --",
+          "overBookedCabins": {
+            "cabins": []
+          },
+          "isOperatedByStar": false,
+          "isMarketedByStar": true,
+          "isUAXFlight": false,
+          "isThruFlight": false,
+          "isCOGFlight": false,
+          "sequence": 0
+        }
+      ],
+      "totalFlightsCount": 1,
+      "errors": null
+    }
+  ],
+  "errors": null,
+  "dataSource": "CSL",
+  "alertFlag": null
+}

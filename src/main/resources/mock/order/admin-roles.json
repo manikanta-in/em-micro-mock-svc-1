@@ -1,0 +1,7 @@
+[
+  {
+    "action": [ "read", "update", "create", "delete", "search"],
+    "subject": "Customer",
+    "fields": []
+  }
+]

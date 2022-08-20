@@ -1,0 +1,278 @@
+{
+  "nodeMaster": {
+    "node": 7778,
+    "isNodeActive": true,
+    "nodeType": {
+      "nodeTypeCode": 1,
+      "shortDescription": "store"
+    },
+    "nodeSubType": {
+      "nodeSubTypeCode": 1,
+      "shortDescription": "store"
+    },
+    "latitude": 43.699736,
+    "longitude": -79.461873,
+    "deliveryDriveMiles": 75.0,
+    "zipcode": "0",
+    "city": "TORONTO",
+    "state": "ON",
+    "countryCode": "USA",
+    "capacityUOM": "orders",
+    "valueAddedService": "",
+    "nodeKillAtMaxFinRollover": true,
+    "nodeKillMaxFinDays": 7,
+    "supportedTruckType": [
+      {
+        "truckTypeCode": 1,
+        "shortDescription": "Box Truck"
+      },
+      {
+        "truckTypeCode": 2,
+        "shortDescription": "Large Flat Bed"
+      }
+    ],
+    "supportedCarrierName": [
+      "PARCEL"
+    ],
+    "supportedCarriersrvcLvl": [
+      "GND",
+      "ALL"
+    ],
+    "supported_TransportMode": [
+      "RGL"
+    ],
+    "supportedTransportMode": [
+      {
+        "transportModeCode": 9,
+        "shortDescription": "HZMO"
+      },
+      {
+        "transportModeCode": 8,
+        "shortDescription": "HZMK"
+      },
+      {
+        "transportModeCode": 2,
+        "shortDescription": "HZM2"
+      },
+      {
+        "transportModeCode": 6,
+        "shortDescription": "HZMD"
+      },
+      {
+        "transportModeCode": 7,
+        "shortDescription": "HZMI"
+      },
+      {
+        "transportModeCode": 15,
+        "shortDescription": "HZMW"
+      },
+      {
+        "transportModeCode": 1,
+        "shortDescription": "RGL"
+      },
+      {
+        "transportModeCode": 5,
+        "shortDescription": "HZMC"
+      },
+      {
+        "transportModeCode": 14,
+        "shortDescription": "HZMV"
+      },
+      {
+        "transportModeCode": 4,
+        "shortDescription": "HZMB"
+      },
+      {
+        "transportModeCode": 13,
+        "shortDescription": "HZMU"
+      },
+      {
+        "transportModeCode": 12,
+        "shortDescription": "HZMR"
+      },
+      {
+        "transportModeCode": 11,
+        "shortDescription": "HZMQ"
+      },
+      {
+        "transportModeCode": 10,
+        "shortDescription": "HZMP"
+      }
+    ],
+    "workingDays": [
+      "Mon:6_10",
+      "Tue:6_10",
+      "Wed:6_10",
+      "Thu:6_10",
+      "Fri:6_10",
+      "Sat:6_10",
+      "Sun:6_10"
+    ],
+    "processingTime": 0,
+    "timeZoneOffset": "-5",
+    "nodeHoliday": [
+      "04-04-2021",
+      "11-25-2021",
+      "12-25-2021"
+    ],
+    "nodeReceivingDays": null,
+    "orderStartTime": "06:00",
+    "orderCutoffTime": "15:00",
+    "timeZone": "America/New_York",
+    "nodeProcessingCost": 7.32,
+    "nodeProcessingWeight": 1.0,
+    "outboundTransportationWeight": 1.0,
+    "nodeBufferDays": 1,
+    "address": "1300 CASTLEFIELD AVENUE,TORONTO,ON,0",
+    "receiptProcessingDays": null,
+    "leadTimeInfo": {
+      "PARCEL": {
+        "processingTime": 480,
+        "nodeBuffer": 0,
+        "nodeBufferDays": 7
+      }
+    },
+    "carrier": {},
+    "region": null,
+    "district": null,
+    "costLevers": {
+      "PARCEL": {
+        "processingCost": 3.0,
+        "processingWeight": 0.456789,
+        "outboundTransportationWeight": 0.56734
+      }
+    }
+  },
+  "nodeFulfillmentEntity": {
+    "criticalityLevel": "MEDIUM",
+    "changeReason": "HIGH",
+    "node": 7778,
+    "fulfillmentTypeCode": 4,
+    "fullFillmentType": {
+      "fulfillmentTypeCode": 4,
+      "shortDescription": "PARCEL"
+    },
+    "fulfillmentTypeEligibity": true,
+    "fulfillmentTypeEnabled": true,
+    "fulfillmentTypeInactiveStartDate": null,
+    "fulfillmentTypeInactiveEndDate": null,
+    "rulesActive": true,
+    "rulesInactiveStartDate": null,
+    "rulesInactiveEndDate": null,
+    "rollOverDays": 7,
+    "nodeKillAtMaxDays": true,
+    "updateDateTimeStamp": "06-09-2022 08:24:09",
+    "nodeSourcingRules": [
+      {
+        "node": 7778,
+        "fulfillmentTypeCode": 4,
+        "ruleTypeCode": 8,
+        "ruleType": {
+          "ruleTypeCode": 8,
+          "shortDescription": "Region"
+        },
+        "ruleActive": true,
+        "ruleInactiveStartTime": null,
+        "ruleInactiveEndTime": null,
+        "sourcingValue": "PR,AK,AS,VI,MA",
+        "oldHazmatCode": null,
+        "hazmatCode": ""
+      },
+      {
+        "node": 7778,
+        "fulfillmentTypeCode": 4,
+        "ruleTypeCode": 2,
+        "ruleType": {
+          "ruleTypeCode": 2,
+          "shortDescription": "HZ"
+        },
+        "ruleActive": false,
+        "ruleInactiveStartTime": null,
+        "ruleInactiveEndTime": null,
+        "sourcingValue": "A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P",
+        "oldHazmatCode": "1",
+        "hazmatCode": "1"
+      }
+    ],
+    "nodeCapacity": [
+      {
+        "node": 7778,
+        "fulfillmentTypeCode": 4,
+        "workingDayCode": 1,
+        "workingDayEntity": {
+          "workingDayCode": 1,
+          "description": "MONDAY"
+        },
+        "capacity": 360,
+        "cutoffTime": "22:00"
+      },
+      {
+        "node": 7778,
+        "fulfillmentTypeCode": 4,
+        "workingDayCode": 3,
+        "workingDayEntity": {
+          "workingDayCode": 3,
+          "description": "WEDNESDAY"
+        },
+        "capacity": 180,
+        "cutoffTime": "22:00"
+      },
+      {
+        "node": 7778,
+        "fulfillmentTypeCode": 4,
+        "workingDayCode": 4,
+        "workingDayEntity": {
+          "workingDayCode": 4,
+          "description": "THURSDAY"
+        },
+        "capacity": 180,
+        "cutoffTime": "22:00"
+      },
+      {
+        "node": 7778,
+        "fulfillmentTypeCode": 4,
+        "workingDayCode": 5,
+        "workingDayEntity": {
+          "workingDayCode": 5,
+          "description": "FRIDAY"
+        },
+        "capacity": 180,
+        "cutoffTime": "22:00"
+      },
+      {
+        "node": 7778,
+        "fulfillmentTypeCode": 4,
+        "workingDayCode": 2,
+        "workingDayEntity": {
+          "workingDayCode": 2,
+          "description": "TUESDAY"
+        },
+        "capacity": 180,
+        "cutoffTime": "22:00"
+      },
+      {
+        "node": 7778,
+        "fulfillmentTypeCode": 4,
+        "workingDayCode": 6,
+        "workingDayEntity": {
+          "workingDayCode": 6,
+          "description": "SATURDAY"
+        },
+        "capacity": 0,
+        "cutoffTime": "22:00"
+      },
+      {
+        "node": 7778,
+        "fulfillmentTypeCode": 4,
+        "workingDayCode": 7,
+        "workingDayEntity": {
+          "workingDayCode": 7,
+          "description": "SUNDAY"
+        },
+        "capacity": 0,
+        "cutoffTime": "22:00"
+      }
+    ],
+    "lead_time_details": "{\"nodeBuffer\": 1440, \"orderEndTime\": \"13:39\", \"nodeBufferUOM\": \"MINUTES\", \"nodeBufferDays\": 1, \"orderStartTime\": \"06:00\", \"processingTime\": 60, \"processingTimeUOM\": \"MINUTES\"}"
+  }
+}

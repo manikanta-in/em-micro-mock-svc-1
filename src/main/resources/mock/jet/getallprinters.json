@@ -1,0 +1,28 @@
+{
+  "boardingPassPrinter": null,
+  "bagTagPrinter": null,
+  "primaryTicketPrinter": null,
+  "alternateTicketPrinter": null,
+  "lniata": null,
+  "errors": [
+    {
+      "code": "200",
+      "majorCode": null,
+      "minorCode": null,
+      "description": null,
+      "majorDescription": null,
+      "minorDescription": "No Printer(s) assigned.",
+      "text": null,
+      "pnr": null,
+      "agentVID": null,
+      "message": null,
+      "errorType": null,
+      "userFriendlyMessageType": null,
+      "userFriendlyMessageNumber": null,
+      "userFriendlyMessage": null,
+      "callTime": "0001-01-01T00:00:00"
+    }
+  ],
+  "dataSource": null,
+  "alertFlag": "FALSE"
+}

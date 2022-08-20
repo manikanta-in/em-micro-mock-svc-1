@@ -1,0 +1,179 @@
+{
+  "ssrType": [
+    {
+      "code": "WCBD",
+      "description": "Wheel chair , Dry Cell Battery",
+      "remarksText": [
+        "Remarks"
+      ],
+      "isRequired": false,
+      "id": 0
+    },
+    {
+      "code": "WCBW",
+      "description": "Wheel chair , Wet Cell Battery",
+      "remarksText": [
+        "Remarks"
+      ],
+      "isRequired": false,
+      "id": 1
+    },
+    {
+      "code": "SVAN",
+      "description": "Service Animal",
+      "remarksText": [
+        "Type of Animal"
+      ],
+      "isRequired": true,
+      "id": 10
+    },
+    {
+      "code": "BLND",
+      "description": "Blind",
+      "remarksText": [
+        "Remarks"
+      ],
+      "isRequired": false,
+      "id": 11
+    },
+    {
+      "code": "DEAF",
+      "description": "Deaf",
+      "remarksText": [
+        "Remarks"
+      ],
+      "isRequired": false,
+      "id": 12
+    },
+    {
+      "code": "DPNA",
+      "description": "Diasbled Passenger Needs assistance",
+      "remarksText": [
+        "Assistance Information"
+      ],
+      "isRequired": true,
+      "id": 13
+    },
+    {
+      "code": "MEDA",
+      "description": "FAA Approved Medical device",
+      "remarksText": [
+        "Select Manufacturer and Model of Respiratory Device/Medical Case"
+      ],
+      "isRequired": true,
+      "id": 17
+    },
+    {
+      "code": "MEQT",
+      "description": "Medical Equipment",
+      "remarksText": [
+        "Remarks"
+      ],
+      "isRequired": false,
+      "id": 18
+    },
+    {
+      "code": "PPOC",
+      "description": "Portable Oxygen Concentrator",
+      "remarksText": [
+        "Select FAA Approved Device",
+        "Select Device Flow Rate"
+      ],
+      "isRequired": true,
+      "id": 19
+    },
+    {
+      "code": "WCHC",
+      "description": "Wheel chair , Completely immobile",
+      "remarksText": [
+        "Remarks"
+      ],
+      "isRequired": false,
+      "id": 2
+    },
+    {
+      "code": "WEAP",
+      "description": "Firearm in checked baggage",
+      "remarksText": [
+        "Remarks"
+      ],
+      "isRequired": true,
+      "id": 23
+    },
+    {
+      "code": "GSMC",
+      "description": "Government Supervised Movement Child",
+      "remarksText": [
+        "Remarks"
+      ],
+      "isRequired": true,
+      "id": 28
+    },
+    {
+      "code": "GSME",
+      "description": "Government Supervised Movement Escort",
+      "remarksText": [
+        "Remarks"
+      ],
+      "isRequired": true,
+      "id": 29
+    },
+    {
+      "code": "WCHR",
+      "description": "Wheel chair , can ascend/descend steps",
+      "remarksText": [
+        "Remarks"
+      ],
+      "isRequired": false,
+      "id": 3
+    },
+    {
+      "code": "INFT",
+      "description": "Infant",
+      "remarksText": [
+        "Remarks"
+      ],
+      "isRequired": false,
+      "id": 30
+    },
+    {
+      "code": "WCHS",
+      "description": "Wheel chair , cannot ascend/descend steps",
+      "remarksText": [
+        "Remarks"
+      ],
+      "isRequired": false,
+      "id": 4
+    },
+    {
+      "code": "WCMP",
+      "description": "Wheel chair , manual power",
+      "remarksText": [
+        "Remarks"
+      ],
+      "isRequired": false,
+      "id": 6
+    },
+    {
+      "code": "WCOB",
+      "description": "Wheel chair ,Onboard wheelchair",
+      "remarksText": [
+        "Remarks"
+      ],
+      "isRequired": false,
+      "id": 7
+    },
+    {
+      "code": "UMNR",
+      "description": "Unaccompanied Minor",
+      "remarksText": [
+        "Remarks"
+      ],
+      "isRequired": false,
+      "id": 8
+    }
+  ],
+  "errors": null,
+  "dataSource": "DYNAMO",
+  "alertFlag": null
+}

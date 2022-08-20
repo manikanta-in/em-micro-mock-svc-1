@@ -1,0 +1,32 @@
+eyemed:
+    instance:
+        dev: dev
+logging:
+    level:
+        web: DEBUG
+        org.springframework.cloud: debug
+
+server:
+   port: 9444
+spring:
+    application.name: mock-api-consumer
+    data:
+      #elasticsearch:
+      #  client:
+      #    reactive:
+      #      endpoints: http://localhost:9200
+    #elasticsearch:
+    #  rest:
+    #    uris: http://localhost:9200
+
+    cloud.stream.bindings.input-in-0.destination: verifications
+    datasource:
+        jdbc-url: jdbc:oracle:thin:@localhost:1521:orcl
+        password: BATCH
+        username: BATCH
+    jpa:
+      database-platform: org.hibernate.dialect.Oracle12cDialect
+    h2:
+        console:
+            enabled: true
+            path: /h2

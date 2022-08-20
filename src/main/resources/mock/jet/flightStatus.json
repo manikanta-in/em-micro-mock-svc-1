@@ -1,0 +1,523 @@
+{
+  "flight": {
+    "flightNumber": "0960",
+    "departureAirport": "EWR",
+    "departureDate": "2022-03-23",
+    "overSaleStatus": false,
+    "flightCount": null,
+    "isThruFlight": false,
+    "isFlightWeightRestricted": false
+  },
+  "flightLegs": [
+    {
+      "operationalFlightSegments": [
+        {
+          "estimatedArrivalTime": "2022-03-24T09:15:00",
+          "estimatedDepartureTime": "2022-03-23T20:55:00",
+          "departureGate": "C121",
+          "arrivalGate": "HOLD",
+          "estimatedArrivalUTCTime": "2022-03-24T08:15:00",
+          "estimatedDepartureUTCTime": "2022-03-24T00:55:00",
+          "departureDateTime": "2022-03-23T20:55:00",
+          "arrivalDateTime": "2022-03-24T09:15:00",
+          "arrivalUTCDateTime": "2022-03-24T08:15:00",
+          "departureUTCDateTime": "2022-03-24T00:55:00",
+          "boardTime": "20:05:00",
+          "isInternational": true,
+          "operatingAirline": {
+            "iataCode": "UA"
+          },
+          "flightStatuses": [
+            {
+              "statusType": "DepartureStatus",
+              "description": "Canceled",
+              "code": "CNL"
+            },
+            {
+              "statusType": "ArrivalStatus",
+              "description": "Canceled",
+              "code": "CNL"
+            },
+            {
+              "statusType": "LegStatus",
+              "description": "Canceled",
+              "code": "CNCL"
+            },
+            {
+              "statusType": "FlightStatus",
+              "description": "Canceled",
+              "code": "Cancelled"
+            },
+            {
+              "statusType": "ShortFlightStatus",
+              "description": "Canceled",
+              "code": "Cancelled"
+            }
+          ],
+          "departureAirport": {
+            "iataCode": "EWR",
+            "name": "NEWARK,NJ,USA(EWR)",
+            "shortName": "NEWARK LIBERTY INTL"
+          },
+          "arrivalAirport": {
+            "iataCode": "FRA",
+            "name": "FRANKFURT/MAIN,DEU(FRA)",
+            "shortName": "FRANKFURT/MAIN"
+          },
+          "equipment": {
+            "noseNumber": "1004",
+            "model": {
+              "genre": "787",
+              "description": "Boeing 787-10",
+              "vendorName": "B ",
+              "key": "78J",
+              "fleet": "787",
+              "subFleet": "122   "
+            },
+            "shipNumber": "B787-122",
+            "tailNumber": "N12004",
+            "cabins": [
+              {
+                "name": "J",
+                "totalSeats": 44
+              },
+              {
+                "name": "O",
+                "totalSeats": 21
+              },
+              {
+                "name": "Y",
+                "totalSeats": 253
+              }
+            ],
+            "bookedCabin": [
+              {
+                "name": "J",
+                "totalSeats": 31
+              },
+              {
+                "name": "O",
+                "totalSeats": 17
+              },
+              {
+                "name": "Y",
+                "totalSeats": 191
+              }
+            ],
+            "ownerAirlineCode": "UA",
+            "cabinCount": 3,
+            "seatMapConfigurationCode": "38",
+            "links": [],
+            "seatmapLegendList": null,
+            "pseudoTailNumber": null
+          },
+          "quickTurnIndicator": false,
+          "characteristic": [
+            {
+              "code": "DisplayInd",
+              "value": "1"
+            },
+            {
+              "code": "ActvInd",
+              "value": "0"
+            },
+            {
+              "code": "FltOutInd",
+              "value": "0"
+            },
+            {
+              "code": "FltOffInd",
+              "value": "0"
+            },
+            {
+              "code": "FltOnInd",
+              "value": "0"
+            },
+            {
+              "code": "FltInInd",
+              "value": "0"
+            },
+            {
+              "code": "FltCnclInd",
+              "value": "1"
+            },
+            {
+              "code": "FltDcsnInd",
+              "value": "0"
+            },
+            {
+              "code": "FltDepXstpInd",
+              "value": "0"
+            },
+            {
+              "code": "FltArrXstpInd",
+              "value": "0"
+            },
+            {
+              "code": "FltDepDvrtInd",
+              "value": "0"
+            },
+            {
+              "code": "FltArrDvrtInd",
+              "value": "0"
+            },
+            {
+              "code": "FltArrRTBLInd",
+              "value": "0"
+            },
+            {
+              "code": "FltDepRTBLInd",
+              "value": "0"
+            },
+            {
+              "code": "FltArrRTFLInd",
+              "value": "0"
+            },
+            {
+              "code": "FltDepRTFLInd",
+              "value": "0"
+            },
+            {
+              "code": "FltDepNstpInd",
+              "value": "0"
+            },
+            {
+              "code": "FltArrNstpInd",
+              "value": "0"
+            },
+            {
+              "code": "FltOverflyInd",
+              "value": "0"
+            },
+            {
+              "code": "FltIrropsCnclInd",
+              "value": "0"
+            },
+            {
+              "code": "DestOccurNbr",
+              "value": "0"
+            },
+            {
+              "code": "OrigOccurNbr",
+              "value": "0"
+            },
+            {
+              "code": "StarInd",
+              "value": "0"
+            },
+            {
+              "code": "PriorityFltInd",
+              "value": "0"
+            },
+            {
+              "code": "DomesticInternationalIndicator",
+              "value": "II"
+            },
+            {
+              "code": "LocalEstimatedBoardStartDateTime",
+              "value": "2022-03-23T20:05:00"
+            },
+            {
+              "code": "LocalEstimatedBoardEndDateTime",
+              "value": "2022-03-23T20:40:00"
+            },
+            {
+              "code": "LocalScheduledBoardStartDateTime",
+              "value": "2022-03-23T20:05:00"
+            },
+            {
+              "code": "LocalScheduledBoardEndDateTime",
+              "value": "2022-03-23T20:40:00"
+            }
+          ],
+          "departureTerminal": "Terminal C, Concourse C3",
+          "arrivalTerminal": "--, --",
+          "departureTerminalName": "C",
+          "arrivalTerminalName": "",
+          "departureConcourse": "C3",
+          "arrivalConcourse": "",
+          "travelTime": 440,
+          "arrivalBaggageClaimUnit": null,
+          "pbtDetails": [
+            {
+              "travelCountType": "Authorized",
+              "cabins": [
+                {
+                  "code": "J",
+                  "totalSeats": 0,
+                  "isOverBooked": false
+                },
+                {
+                  "code": "O",
+                  "totalSeats": 0,
+                  "isOverBooked": false
+                },
+                {
+                  "code": "Y",
+                  "totalSeats": 0,
+                  "isOverBooked": false
+                }
+              ],
+              "totalSeats": 0,
+              "bookedCabins": null,
+              "displayCode": "Authorization"
+            },
+            {
+              "travelCountType": "Capacity",
+              "cabins": [
+                {
+                  "code": "J",
+                  "totalSeats": 44,
+                  "isOverBooked": false
+                },
+                {
+                  "code": "O",
+                  "totalSeats": 21,
+                  "isOverBooked": false
+                },
+                {
+                  "code": "Y",
+                  "totalSeats": 253,
+                  "isOverBooked": false
+                }
+              ],
+              "totalSeats": 318,
+              "bookedCabins": null,
+              "displayCode": "Capacity"
+            },
+            {
+              "travelCountType": "Booked",
+              "cabins": [
+                {
+                  "code": "J",
+                  "totalSeats": 31,
+                  "isOverBooked": false
+                },
+                {
+                  "code": "O",
+                  "totalSeats": 17,
+                  "isOverBooked": false
+                },
+                {
+                  "code": "Y",
+                  "totalSeats": 191,
+                  "isOverBooked": false
+                }
+              ],
+              "totalSeats": 239,
+              "bookedCabins": [
+                {
+                  "travelCountType": "Positive Space",
+                  "cabins": [
+                    {
+                      "code": "J",
+                      "totalSeats": 1,
+                      "isOverBooked": false
+                    },
+                    {
+                      "code": "O",
+                      "totalSeats": 0,
+                      "isOverBooked": false
+                    },
+                    {
+                      "code": "Y",
+                      "totalSeats": 0,
+                      "isOverBooked": false
+                    }
+                  ],
+                  "totalSeats": 1,
+                  "bookedCabins": null,
+                  "displayCode": null
+                },
+                {
+                  "travelCountType": "Held",
+                  "cabins": [
+                    {
+                      "code": "J",
+                      "totalSeats": 0,
+                      "isOverBooked": false
+                    },
+                    {
+                      "code": "O",
+                      "totalSeats": 0,
+                      "isOverBooked": false
+                    },
+                    {
+                      "code": "Y",
+                      "totalSeats": 0,
+                      "isOverBooked": false
+                    }
+                  ],
+                  "totalSeats": 0,
+                  "bookedCabins": null,
+                  "displayCode": null
+                },
+                {
+                  "travelCountType": "Group",
+                  "cabins": [
+                    {
+                      "code": "J",
+                      "totalSeats": 0,
+                      "isOverBooked": false
+                    },
+                    {
+                      "code": "O",
+                      "totalSeats": 0,
+                      "isOverBooked": false
+                    },
+                    {
+                      "code": "Y",
+                      "totalSeats": 0,
+                      "isOverBooked": false
+                    }
+                  ],
+                  "totalSeats": 0,
+                  "bookedCabins": null,
+                  "displayCode": null
+                }
+              ],
+              "displayCode": "Booked"
+            },
+            {
+              "travelCountType": "Available",
+              "cabins": [
+                {
+                  "code": "J",
+                  "totalSeats": 13,
+                  "isOverBooked": false
+                },
+                {
+                  "code": "O",
+                  "totalSeats": 4,
+                  "isOverBooked": false
+                },
+                {
+                  "code": "Y",
+                  "totalSeats": 62,
+                  "isOverBooked": false
+                }
+              ],
+              "totalSeats": 79,
+              "bookedCabins": null,
+              "displayCode": "Available"
+            },
+            {
+              "travelCountType": "Revenue Standby",
+              "cabins": [
+                {
+                  "code": "J",
+                  "totalSeats": 0,
+                  "isOverBooked": false
+                },
+                {
+                  "code": "O",
+                  "totalSeats": 0,
+                  "isOverBooked": false
+                },
+                {
+                  "code": "Y",
+                  "totalSeats": 0,
+                  "isOverBooked": false
+                }
+              ],
+              "totalSeats": 0,
+              "bookedCabins": null,
+              "displayCode": "Rev-Standby"
+            },
+            {
+              "travelCountType": "NRSA Standby",
+              "cabins": [
+                {
+                  "code": "J",
+                  "totalSeats": 2,
+                  "isOverBooked": false
+                },
+                {
+                  "code": "O",
+                  "totalSeats": 1,
+                  "isOverBooked": false
+                },
+                {
+                  "code": "Y",
+                  "totalSeats": 0,
+                  "isOverBooked": false
+                }
+              ],
+              "totalSeats": 3,
+              "bookedCabins": null,
+              "displayCode": "NRSA"
+            }
+          ],
+          "inTime": null,
+          "outTime": null,
+          "onTime": null,
+          "offTime": null,
+          "departureEstDiff": "",
+          "departureOutDiff": "20:55E",
+          "arrivalEstDiff": "",
+          "arrivalInDiff": "",
+          "reasonStatuses": [
+            {
+              "Type": "DepartureDelayReason",
+              "UnimaticReasonCode": "FD",
+              "CustomerFacingCode": "MX   ",
+              "CustomerFacingDescription": "Aircraft maintenance",
+              "OperationalDescription": "DAMAGE-FLT OPS",
+              "ReasonDescriptions": [
+                {
+                  "Key": "ShortOpsDesc",
+                  "Description": "DAMAGE-FLT OPS"
+                },
+                {
+                  "Key": "LongOpsDesc",
+                  "Description": "Aircraft damage, or damage inspection, caused by the flight crew, either in the air or on the ground, who are not receiving visual guidance from ground personnel. (e.g., fluids spilled in the pedestal, tail strikes.)"
+                },
+                {
+                  "Key": "FIDSDesc",
+                  "Description": "Aircraft maintenance"
+                },
+                {
+                  "Key": "ShortPubDesc",
+                  "Description": "Aircraft maintenance inspection"
+                },
+                {
+                  "Key": "LongPubDesc",
+                  "Description": "aircraft maintenance"
+                },
+                {
+                  "Key": "CustPubDesc",
+                  "Description": "Your flight is canceled because your plane needs repairs. We're sorry for the inconvenience."
+                }
+              ],
+              "IsDelayEffective": "1"
+            }
+          ],
+          "shipNumber": "1004"
+        }
+      ],
+      "scheduledFlightSegments": [
+        {
+          "departureDateTime": "2022-03-23T20:55:00",
+          "arrivalDateTime": "2022-03-24T09:15:00",
+          "arrivalUTCDateTime": "2022-03-24T08:15:00",
+          "departureUTCDateTime": "2022-03-24T00:55:00",
+          "segmentNumber": 1
+        }
+      ],
+      "isOperatedByStar": false,
+      "isMarketedByStar": true,
+      "isUAXFlight": false
+    }
+  ],
+  "cslFlifo2DMessagesResponse": {
+    "sharesResponse": [
+      "\"/$0960/23MAR\\rN EWR/LX\\r    \\rSKED  EWR  ORIG    855P              GTD C121 SHIP 1001\\r      FRA   915A  TERM    1 GTA HOLD\\r\\u001e\""
+    ],
+    "is2DMessage": false,
+    "errors": null,
+    "dataSource": "CSL"
+  },
+  "errors": null,
+  "dataSource": "CSL",
+  "alertFlag": "FALSE"
+}

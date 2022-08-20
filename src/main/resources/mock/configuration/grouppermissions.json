@@ -1,0 +1,12 @@
+{
+  "entityName": "HOME",
+  "groupName": "Dev_91184_NodeStar_CPC_SuperUser",
+  "widgets": [
+    {
+      "type": "ADMIN",
+      "isEdit": true,
+      "values": {},
+      "fields": "ALL"
+    }
+  ]
+}

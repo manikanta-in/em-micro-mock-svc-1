@@ -1,0 +1,526 @@
+{
+  "aaa": "HQW",
+  "cashOk": "F",
+  "checkOk": "F",
+  "cityName": "Chicago corporate support center",
+  "countryCode": "US",
+  "creditCardOk": "T",
+  "currencies": [
+    {
+      "currency": "AED",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 3.674
+    },
+    {
+      "currency": "ANG",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 1.79
+    },
+    {
+      "currency": "ARS",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 115.0
+    },
+    {
+      "currency": "AUD",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 1.349
+    },
+    {
+      "currency": "AWG",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 1.8
+    },
+    {
+      "currency": "BBD",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 2.0
+    },
+    {
+      "currency": "BDT",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 85.0
+    },
+    {
+      "currency": "BHD",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 3,
+      "usdConversion": 0.376
+    },
+    {
+      "currency": "BMD",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 1.0
+    },
+    {
+      "currency": "BRL",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 4.967
+    },
+    {
+      "currency": "BSD",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 1.0
+    },
+    {
+      "currency": "BZD",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 2.0
+    },
+    {
+      "currency": "CAD",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 1.261
+    },
+    {
+      "currency": "CHF",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 0.932
+    },
+    {
+      "currency": "CLP",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 0,
+      "usdConversion": 804.0
+    },
+    {
+      "currency": "CNY",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 6.363
+    },
+    {
+      "currency": "COP",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 3820.67
+    },
+    {
+      "currency": "CRC",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 653.21
+    },
+    {
+      "currency": "CUP",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 24.0
+    },
+    {
+      "currency": "CZK",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 22.498
+    },
+    {
+      "currency": "DKK",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 6.737
+    },
+    {
+      "currency": "DOP",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 55.02
+    },
+    {
+      "currency": "EGP",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 18.25
+    },
+    {
+      "currency": "EUR",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 0.905
+    },
+    {
+      "currency": "FJD",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 2.145
+    },
+    {
+      "currency": "GBP",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 0.759
+    },
+    {
+      "currency": "GHS",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 8.2
+    },
+    {
+      "currency": "GTQ",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 7.685
+    },
+    {
+      "currency": "HKD",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 7.825
+    },
+    {
+      "currency": "HNL",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 24.341
+    },
+    {
+      "currency": "HTG",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 106.32
+    },
+    {
+      "currency": "IDR",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 14340.0
+    },
+    {
+      "currency": "ILS",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 3.239
+    },
+    {
+      "currency": "INR",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 75.913
+    },
+    {
+      "currency": "ISK",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 0,
+      "usdConversion": 129.26
+    },
+    {
+      "currency": "JMD",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 153.571
+    },
+    {
+      "currency": "JOD",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 3,
+      "usdConversion": 0.709
+    },
+    {
+      "currency": "JPY",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 0,
+      "usdConversion": 119.173
+    },
+    {
+      "currency": "KES",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 115.3
+    },
+    {
+      "currency": "KRW",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 0,
+      "usdConversion": 1211.891
+    },
+    {
+      "currency": "KWD",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 3,
+      "usdConversion": 0.305
+    },
+    {
+      "currency": "KYD",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 0.82
+    },
+    {
+      "currency": "LKR",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 274.998
+    },
+    {
+      "currency": "MNT",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 2912.87
+    },
+    {
+      "currency": "MXN",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 20.559
+    },
+    {
+      "currency": "MYR",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 4.196
+    },
+    {
+      "currency": "NGN",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 444.0
+    },
+    {
+      "currency": "NOK",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 8.751
+    },
+    {
+      "currency": "NPR",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 123.156
+    },
+    {
+      "currency": "NZD",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 1.449
+    },
+    {
+      "currency": "OMR",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 3,
+      "usdConversion": 0.386
+    },
+    {
+      "currency": "PEN",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 3.776
+    },
+    {
+      "currency": "PHP",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 52.36
+    },
+    {
+      "currency": "PKR",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 180.775
+    },
+    {
+      "currency": "PLN",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 4.271
+    },
+    {
+      "currency": "QAR",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 3.642
+    },
+    {
+      "currency": "RUB",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 104.0
+    },
+    {
+      "currency": "SAR",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 3.756
+    },
+    {
+      "currency": "SEK",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 9.422
+    },
+    {
+      "currency": "SGD",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 1.356
+    },
+    {
+      "currency": "THB",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 33.46
+    },
+    {
+      "currency": "TRY",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 14.843
+    },
+    {
+      "currency": "TTD",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 6.771
+    },
+    {
+      "currency": "TWD",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 28.379
+    },
+    {
+      "currency": "USD",
+      "isPrimaryCurrency": "Y",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 1.0
+    },
+    {
+      "currency": "VEF",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 248832.0
+    },
+    {
+      "currency": "VND",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 0,
+      "usdConversion": 23010.0
+    },
+    {
+      "currency": "XCD",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 2.7
+    },
+    {
+      "currency": "XPF",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 0,
+      "usdConversion": 107.994
+    },
+    {
+      "currency": "ZAR",
+      "isPrimaryCurrency": "N",
+      "primaryMaxAmount": 9999999,
+      "primaryNumberDecimal": 2,
+      "usdConversion": 15.018
+    }
+  ],
+  "eacOn": "03/08/2099 12:00:00",
+  "eacType": 1,
+  "eddOn": "03/08/2019 12:00:00",
+  "gmtOffset": "-6:00",
+  "hostCarrierCode": "UA",
+  "isDaylightSaving": "Y",
+  "isETicketCreditCard": "F",
+  "locType": "RES",
+  "localDate": "02/02/2019 00:00:00",
+  "locallyBilledAvailable": "F",
+  "mso": "14990356",
+  "pfc": 0.0,
+  "refundDraftOk": "F",
+  "region": "AMERICA",
+  "salesTypeBag": "1",
+  "salesTypeMer": "1",
+  "salesTypePfc": "1",
+  "salesTypeSst": "1",
+  "salesTypeTax": "1",
+  "stateCode": "IL",
+  "sysCloseTimeGMT": "0800",
+  "timeOut": 900,
+  "errors": null,
+  "dataSource": "CSL",
+  "alertFlag": "FALSE"
+}
+

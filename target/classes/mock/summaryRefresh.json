@@ -1,0 +1,215 @@
+{
+  "isDataComponent": true,
+  "data": {
+    "dataItems": [
+      {
+        "displayName": "Elevated",
+        "actions": [
+          {
+            "actionType": "sref",
+            "url": "events-all",
+            "params": "{ \"eventType\": \"Elevated\", \"timeStampIndex\": \"[dataPointXIndex]\", \"interval\": \"Last12Months\" }"
+          }
+        ],
+        "color": "#29ABE2"
+      },
+      {
+        "displayName": "Blocked",
+        "actions": [
+          {
+            "actionType": "sref",
+            "url": "events-all",
+            "params": "{ \"eventType\": \"Blocked\", \"timeStampIndex\": \"[dataPointXIndex]\", \"interval\": \"Last12Months\" }"
+          }
+        ],
+        "color": "#BF0000"
+      },
+      {
+        "displayName": "Cancelled",
+        "actions": [
+          {
+            "actionType": "sref",
+            "url": "events-all",
+            "params": "{ \"eventType\": \"Cancelled\", \"timeStampIndex\": \"[dataPointXIndex]\", \"interval\": \"Last12Months\" }"
+          }
+        ],
+        "color": "#7C878E"
+      },
+      {
+        "displayName": "DropAdmin",
+        "actions": [
+          {
+            "actionType": "sref",
+            "url": "events-all",
+            "params": "{ \"eventType\": \"DropAdmin\", \"timeStampIndex\": \"[dataPointXIndex]\", \"interval\": \"Last12Months\" }"
+          }
+        ],
+        "color": "#FDD089"
+      },
+      {
+        "displayName": "EnforceUsersDefault",
+        "actions": [
+          {
+            "actionType": "sref",
+            "url": "events-all",
+            "params": "{ \"eventType\": \"EnforceUsersDefault\", \"timeStampIndex\": \"[dataPointXIndex]\", \"interval\": \"Last12Months\" }"
+          }
+        ],
+        "color": "#95DBEC"
+      }
+    ],
+    "dataPoints": [
+      {
+        "x": "Jan",
+        "y": [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      },
+      {
+        "x": "Feb",
+        "y": [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      },
+      {
+        "x": "Mar",
+        "y": [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      },
+      {
+        "x": "Apr",
+        "y": [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      },
+      {
+        "x": "May",
+        "y": [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      },
+      {
+        "x": "Jun",
+        "y": [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      },
+      {
+        "x": "Jul",
+        "y": [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      },
+      {
+        "x": "Aug",
+        "y": [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      },
+      {
+        "x": "Sep",
+        "y": [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      },
+      {
+        "x": "Oct",
+        "y": [
+          "17",
+          "24",
+          "12",
+          "6",
+          "12"
+        ]
+      },
+      {
+        "x": "Nov",
+        "y": [
+          "41",
+          "49",
+          "39",
+          "34",
+          "33"
+        ]
+      },
+      {
+        "x": "Dec",
+        "y": [
+          "124",
+          "135",
+          "129",
+          "90",
+          "73"
+        ]
+      },
+      {
+        "x": "Jan",
+        "y": [
+          "26",
+          "32",
+          "21",
+          "24",
+          "32"
+        ]
+      }
+    ],
+    "lastUpdated": "2022-01-04T17:23:04.855Z"
+  },
+  "componentType": "Status",
+  "position": {
+    "x": 0,
+    "y": 0,
+    "rows": 7,
+    "cols": 12,
+    "maxRows": 20,
+    "minRows": 1,
+    "maxCols": 20,
+    "minCols": 1
+  },
+  "componentId": "summary-winevents",
+  "displayName": "Windows Events by Action (Top 5)",
+  "helpContent": "The top 5 most common Windows Events grouped by Action broken down by time period",
+  "category": "Summary Windows Events",
+  "isReadOnly": false,
+  "actions": [],
+  "itemId": "summary-winevents",
+  "itemName": "DashboardDataComponentDto",
+  "resourceKey": "dashboardcomponent.managedaccountsbyplatform"
+}

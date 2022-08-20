@@ -1,0 +1,30 @@
+eyemed:
+    instance:
+        dev: dev
+logging:
+    level:
+        web: DEBUG
+        org.springframework.cloud: debug
+
+server:
+   port: 8083
+spring:
+    application.name: mock-api-consumer
+    data:
+      #elasticsearch:
+      #  client:
+      #    reactive:
+      #      endpoints: http://localhost:9200
+    #elasticsearch:
+    #  rest:
+    #    uris: http://localhost:9200
+
+    cloud.stream.bindings.input-in-0.destination: verifications
+    datasource:
+        jdbc-url: jdbc:h2:mem:testdb
+        password: sa
+        username: sa
+    h2:
+        console:
+            enabled: true
+            path: /h2

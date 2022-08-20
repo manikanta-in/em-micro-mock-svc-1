@@ -1,0 +1,109 @@
+[
+  {
+    "investmentProductId": 2159,
+    "accountName": "Retirement Funds",
+    "accountId": "ECM3",
+    "fundCode": "ECM3",
+    "strategyName": "Multi-Asset - Retirement Funds",
+    "investmentVehicle": "US Domiciled Mutual Fund (excluding VIP)",
+    "reports": "{\"Portfolio Update Summary\",\"Quarterly Review - M\",\"Strategy Highlights - M\"}",
+    "owningBusinessUnit": "TRP",
+    "assignedSpecialists": "{\"Matthew   Gross\"}"
+  },
+  {
+    "investmentProductId": 4581,
+    "accountName": "Retirement Blend Trust (Class B)",
+    "accountId": "ECM30",
+    "fundCode": "ECM30",
+    "strategyName": "Multi-Asset - Retirement Blend Trusts",
+    "investmentVehicle": "Common Trust Funds",
+    "reports": "{\"Portfolio Update Summary\",\"Quarterly Review - M\"}",
+    "owningBusinessUnit": "TRP",
+    "assignedSpecialists": "{\"Matthew   Gross\",\"Shamanth   Rai\"}"
+  },
+  {
+    "investmentProductId": 4582,
+    "accountName": "Retirement Blend Trust (Class C)",
+    "accountId": "ECM31",
+    "fundCode": "ECM31",
+    "strategyName": "Multi-Asset - Retirement Blend Trusts",
+    "investmentVehicle": "Common Trust Funds",
+    "reports": "{\"Portfolio Update Summary\",\"Quarterly Review - M\"}",
+    "owningBusinessUnit": "TRP",
+    "assignedSpecialists": "{\"Matthew   Gross\",\"Shamanth   Rai\"}"
+  },
+  {
+    "investmentProductId": 4630,
+    "accountName": "Retirement Trusts (Class G)",
+    "accountId": "ECM32",
+    "fundCode": "ECM32",
+    "strategyName": "Multi-Asset - Retirement Trusts",
+    "investmentVehicle": "Common Trust Funds",
+    "reports": "{\"Portfolio Update Summary\"}",
+    "owningBusinessUnit": "TRP",
+    "assignedSpecialists": "{\"Shamanth   Rai\"}"
+  },
+  {
+    "investmentProductId": 4725,
+    "accountName": "Retirement Blend Trust (Class A)",
+    "accountId": "ECM33",
+    "fundCode": "ECM33",
+    "strategyName": "Multi-Asset - Retirement Blend Trusts",
+    "investmentVehicle": "Common Trust Funds",
+    "reports": "{\"Portfolio Update Summary\",\"Quarterly Review - M\"}",
+    "owningBusinessUnit": "TRP",
+    "assignedSpecialists": "{\"Matthew   Gross\",\"Shamanth   Rai\"}"
+  },
+  {
+    "investmentProductId": 5000,
+    "accountName": "Retirement 2020 Trust Income G",
+    "accountId": "ECM34",
+    "fundCode": "ECM34",
+    "strategyName": "Retirement 2020",
+    "investmentVehicle": "Common Trust Funds",
+    "reports": "{\"Portfolio Update Summary\"}",
+    "owningBusinessUnit": "TRP",
+    "assignedSpecialists": "{\"Radha   Yanamandra\"}"
+  },
+  {
+    "investmentProductId": 5220,
+    "accountName": "Active Model Portfolios",
+    "accountId": "ECM35",
+    "fundCode": "ECM35",
+    "strategyName": "Multi-Asset - Active Model Portfolios",
+    "owningBusinessUnit": "TRP"
+  },
+  {
+    "investmentProductId": 5300,
+    "accountName": "Retirement Blend Trust (Class E)",
+    "accountId": "ECM37",
+    "fundCode": "ECM37",
+    "strategyName": "Multi-Asset - Retirement Blend Trusts",
+    "investmentVehicle": "Common Trust Funds",
+    "reports": "{\"Portfolio Update Summary\"}",
+    "owningBusinessUnit": "TRP",
+    "assignedSpecialists": "{\"Shamanth   Rai\"}"
+  },
+  {
+    "investmentProductId": 5461,
+    "accountName": "Retirement Trusts (Class H)",
+    "accountId": "ECM38",
+    "fundCode": "ECM38",
+    "strategyName": "Multi-Asset - Retirement Trusts",
+    "investmentVehicle": "Common Trust Funds",
+    "reports": "{\"Portfolio Update Summary\"}",
+    "owningBusinessUnit": "TRP",
+    "assignedSpecialists": "{\"Shamanth   Rai\"}"
+  },
+  {
+    "investmentProductId": 5462,
+    "accountName": "Retirement 2020 Trust Income H",
+    "accountId": "ECM39",
+    "fundCode": "ECM39",
+    "strategyName": "Retirement 2020",
+    "investmentVehicle": "Common Trust Funds",
+    "reports": "{\"Portfolio Update Summary\"}",
+    "owningBusinessUnit": "TRP",
+    "assignedSpecialists": "{\"Radha   Yanamandra\"}"
+  }
+]

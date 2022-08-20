@@ -1,0 +1,23 @@
+[
+  {
+    "resourcekey": null,
+    "value": "ANY",
+    "displayName": "Any",
+    "type": "TEXT",
+    "interpolations": null
+  },
+  {
+    "resourcekey": null,
+    "value": "TRIGGERED",
+    "displayName": "Triggered UAC",
+    "type": "TEXT",
+    "interpolations": null
+  },
+  {
+    "resourcekey": null,
+    "value": "DID_NOT_TRIGGER",
+    "displayName": "Did Not Trigger UAC",
+    "type": "TEXT",
+    "interpolations": null
+  }
+]
