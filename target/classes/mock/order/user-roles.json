@@ -1,0 +1,13 @@
+[
+  {
+    "action": [
+      "read",
+      "update"
+    ],
+    "subject": "User",
+    "fields": [
+      "name",
+      "address"
+    ]
+  }
+]

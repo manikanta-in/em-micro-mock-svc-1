@@ -1,0 +1,117 @@
+{
+  "node": 2560,
+  "isNodeActive": true,
+  "nodeType": {
+    "nodeTypeCode": 1,
+    "shortDescription": "store"
+  },
+  "nodeSubType": {
+    "nodeSubTypeCode": 1,
+    "shortDescription": "store"
+  },
+  "latitude": 42.575397,
+  "longitude": -87.888386,
+  "deliveryDriveMiles": 70.0,
+  "zipcode": "53142",
+  "city": "KENOSHA",
+  "state": "WI",
+  "countryCode": "USA",
+  "capacityUOM": "orders",
+  "valueAddedService": "",
+  "nodeKillAtMaxFinRollover": true,
+  "nodeKillMaxFinDays": 7,
+  "supportedTruckType": [
+    {
+      "truckTypeCode": 1,
+      "shortDescription": "Box Truck"
+    },
+    {
+      "truckTypeCode": 2,
+      "shortDescription": "Large Flat Bed"
+    }
+  ],
+  "supportedCarrierName": [
+    "PARCEL"
+  ],
+  "supportedCarriersrvcLvl": [
+    "GND",
+    "ALL"
+  ],
+  "supported_TransportMode": [
+    "RGL"
+  ],
+  "supportedTransportMode": [
+    {
+      "transportModeCode": 1,
+      "shortDescription": "RGL"
+    },
+    {
+      "transportModeCode": 4,
+      "shortDescription": "HZMB"
+    }
+  ],
+  "workingDays": [
+    "Mon:6_10",
+    "Tue:6_10",
+    "Wed:6_10",
+    "Thu:6_10",
+    "Fri:6_10",
+    "Sat:6_10",
+    "Sun:6_10"
+  ],
+  "processingTime": 1,
+  "timeZoneOffset": "-6",
+  "nodeHoliday": [
+    "04-17-2022"
+  ],
+  "nodeReceivingDays": null,
+  "orderStartTime": "06:00",
+  "orderCutoffTime": "13:39",
+  "timeZone": "America/Chicago",
+  "nodeProcessingCost": 3.5,
+  "nodeProcessingWeight": 0.578,
+  "outboundTransportationWeight": 2.8,
+  "nodeBufferDays": 1,
+  "address": "509 River Highway,KENOSHA,WI,53142,KENOSHA,WI,53142,KENOSHA,WI,53142,KENOSHA,WI,53142,KENOSHA,WI,53142,KENOSHA,WI,53142,KENOSHA,WI,53142,KENOSHA,WI,53142,KENOSHA,WI,53142",
+  "receiptProcessingDays": 3,
+  "leadTimeInfo": {
+    "PARCEL": {
+      "orderStartTime": "06:00",
+      "orderEndTime": "13:39",
+      "processingTime": 60,
+      "nodeBuffer": 1440,
+      "nodeBufferDays": 1,
+      "bossProcessingTime": null,
+      "sosCutOffTime": null,
+      "startOffsetValue": null,
+      "endOffsetValue": null,
+      "receivingDays": null,
+      "processingTimeUOM": "MINUTES",
+      "nodeBufferUOM": "MINUTES"
+    },
+    "PUIS": {
+      "orderStartTime": "06:00",
+      "orderEndTime": "18:00",
+      "processingTime": 1120,
+      "nodeBuffer": 210,
+      "nodeBufferDays": 210,
+      "bossProcessingTime": 695,
+      "sosCutOffTime": null,
+      "startOffsetValue": 0,
+      "endOffsetValue": 0,
+      "receivingDays": "Mon Tue Wed Thu",
+      "processingTimeUOM": "MINUTES",
+      "nodeBufferUOM": null
+    }
+  },
+  "carrier": {},
+  "region": "4",
+  "district": "1245",
+  "costLevers": {
+    "PARCEL": {
+      "processingCost": 3.5,
+      "processingWeight": 0.578,
+      "outboundTransportationWeight": 2.8
+    }
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "nodeDetails": [
+    {
+      "nodeId": 8999,
+      "nodeSubType": "DFC",
+      "fulfillment": {
+        "PARCEL": {
+          "fulfillmentType": "PARCEL",
+          "fulfillmentTypeEnabled": true,
+          "fulfillmentTypeEligibility": true,
+          "fulfillmentTypeInactiveStartDate": null,
+          "fulfillmentTypeInactiveEndDate": null
+        },
+        "LTL": {
+          "fulfillmentType": "LTL",
+          "fulfillmentTypeEnabled": false,
+          "fulfillmentTypeEligibility": false,
+          "fulfillmentTypeInactiveStartDate": null,
+          "fulfillmentTypeInactiveEndDate": null
+        },
+        "PUIS": {
+          "fulfillmentType": "PUIS",
+          "fulfillmentTypeEnabled": true,
+          "fulfillmentTypeEligibility": true,
+          "fulfillmentTypeInactiveStartDate": null,
+          "fulfillmentTypeInactiveEndDate": null
+        },
+        "DELIVERY": {
+          "fulfillmentType": "DELIVERY",
+          "fulfillmentTypeEnabled": true,
+          "fulfillmentTypeEligibility": true,
+          "fulfillmentTypeInactiveStartDate": null,
+          "fulfillmentTypeInactiveEndDate": null
+        }
+      },
+      "leadTime": {
+        "PARCEL": {
+          "orderStartTime": "06:00",
+          "orderEndTime": "16:30",
+          "processingTime": 360,
+          "nodeBuffer": 1440,
+          "nodeBufferDays": 0,
+          "bossProcessingTime": null,
+          "sosCutOffTime": null,
+          "startOffsetValue": null,
+          "endOffsetValue": null,
+          "receivingDays": null,
+          "processingTimeUOM": "MINUTES",
+          "nodeBufferUOM": "MINUTES"
+        },
+        "LTL": {
+          "orderStartTime": "06:00",
+          "orderEndTime": "18:30",
+          "processingTime": 360,
+          "nodeBuffer": 0,
+          "nodeBufferDays": 0,
+          "bossProcessingTime": 1440,
+          "sosCutOffTime": null,
+          "startOffsetValue": 0,
+          "endOffsetValue": 0,
+          "receivingDays": "Mon Tue Wed Thu",
+          "processingTimeUOM": "MINUTES",
+          "nodeBufferUOM": "MINUTES"
+        },
+        "PUIS": {
+          "orderStartTime": "06:00",
+          "orderEndTime": "18:30",
+          "processingTime": 360,
+          "nodeBuffer": 0,
+          "nodeBufferDays": 0,
+          "bossProcessingTime": 1440,
+          "sosCutOffTime": null,
+          "startOffsetValue": 0,
+          "endOffsetValue": 0,
+          "receivingDays": "Mon Tue Wed Thu",
+          "processingTimeUOM": "MINUTES",
+          "nodeBufferUOM": "MINUTES"
+        },
+        "DELIVERY": {
+          "orderStartTime": "06:00",
+          "orderEndTime": "15:00",
+          "processingTime": 360,
+          "nodeBuffer": 0,
+          "nodeBufferDays": 0,
+          "bossProcessingTime": 1440,
+          "sosCutOffTime": null,
+          "startOffsetValue": 60,
+          "endOffsetValue": 60,
+          "receivingDays": "Mon Tue Wed Thu",
+          "processingTimeUOM": null,
+          "nodeBufferUOM": null
+        }
+      }
+    },
+    {
+      "nodeId": 6426,
+      "nodeSubType": "store",
+      "fulfillment": {
+        "PARCEL": {
+          "fulfillmentType": "PARCEL",
+          "fulfillmentTypeEnabled": false,
+          "fulfillmentTypeEligibility": false,
+          "fulfillmentTypeInactiveStartDate": null,
+          "fulfillmentTypeInactiveEndDate": null
+        },
+        "PUIS": {
+          "fulfillmentType": "PUIS",
+          "fulfillmentTypeEnabled": true,
+          "fulfillmentTypeEligibility": true,
+          "fulfillmentTypeInactiveStartDate": null,
+          "fulfillmentTypeInactiveEndDate": null
+        },
+        "DELIVERY": {
+          "fulfillmentType": "DELIVERY",
+          "fulfillmentTypeEnabled": true,
+          "fulfillmentTypeEligibility": true,
+          "fulfillmentTypeInactiveStartDate": null,
+          "fulfillmentTypeInactiveEndDate": null
+        }
+      },
+      "leadTime": {
+        "PARCEL": {
+          "orderStartTime": "06:00",
+          "orderEndTime": "15:00",
+          "processingTime": 0,
+          "nodeBuffer": null,
+          "nodeBufferDays": 1,
+          "bossProcessingTime": null,
+          "sosCutOffTime": null,
+          "startOffsetValue": null,
+          "endOffsetValue": null,
+          "receivingDays": null,
+          "processingTimeUOM": "HOURS",
+          "nodeBufferUOM": null
+        },
+        "PUIS": {
+          "orderStartTime": "06:00",
+          "orderEndTime": "18:00",
+          "processingTime": 360,
+          "nodeBuffer": 0,
+          "nodeBufferDays": 0,
+          "bossProcessingTime": 1440,
+          "sosCutOffTime": null,
+          "startOffsetValue": 0,
+          "endOffsetValue": 0,
+          "receivingDays": "Mon Tue Wed Thu",
+          "processingTimeUOM": "MINUTES",
+          "nodeBufferUOM": "MINUTES"
+        }
+      }
+    },
+    {
+      "nodeId": 6781,
+      "nodeSubType": "RDC",
+      "fulfillment": {
+        "PARCEL": {
+          "fulfillmentType": "PARCEL",
+          "fulfillmentTypeEnabled": false,
+          "fulfillmentTypeEligibility": false,
+          "fulfillmentTypeInactiveStartDate": null,
+          "fulfillmentTypeInactiveEndDate": null
+        },
+        "LTL": {
+          "fulfillmentType": "LTL",
+          "fulfillmentTypeEnabled": false,
+          "fulfillmentTypeEligibility": false,
+          "fulfillmentTypeInactiveStartDate": null,
+          "fulfillmentTypeInactiveEndDate": null
+        },
+        "PUIS": {
+          "fulfillmentType": "PUIS",
+          "fulfillmentTypeEnabled": false,
+          "fulfillmentTypeEligibility": false,
+          "fulfillmentTypeInactiveStartDate": null,
+          "fulfillmentTypeInactiveEndDate": null
+        },
+        "DELIVERY": {
+          "fulfillmentType": "DELIVERY",
+          "fulfillmentTypeEnabled": false,
+          "fulfillmentTypeEligibility": false,
+          "fulfillmentTypeInactiveStartDate": null,
+          "fulfillmentTypeInactiveEndDate": null
+        }
+      },
+      "leadTime": {
+        "PARCEL": {
+          "orderStartTime": "06:00",
+          "orderEndTime": "15:00",
+          "processingTime": 0,
+          "nodeBuffer": 0,
+          "nodeBufferDays": 1,
+          "bossProcessingTime": null,
+          "sosCutOffTime": null,
+          "startOffsetValue": null,
+          "endOffsetValue": null,
+          "receivingDays": null,
+          "processingTimeUOM": "HOURS",
+          "nodeBufferUOM": null
+        },
+        "LTL": {
+          "orderStartTime": "06:00",
+          "orderEndTime": "18:30",
+          "processingTime": 360,
+          "nodeBuffer": 0,
+          "nodeBufferDays": 0,
+          "bossProcessingTime": 1440,
+          "sosCutOffTime": null,
+          "startOffsetValue": 0,
+          "endOffsetValue": 0,
+          "receivingDays": "Mon Tue Wed Thu",
+          "processingTimeUOM": "MINUTES",
+          "nodeBufferUOM": "MINUTES"
+        },
+        "PUIS": {
+          "orderStartTime": "06:00",
+          "orderEndTime": "18:30",
+          "processingTime": 360,
+          "nodeBuffer": 0,
+          "nodeBufferDays": 0,
+          "bossProcessingTime": 1440,
+          "sosCutOffTime": null,
+          "startOffsetValue": 0,
+          "endOffsetValue": 0,
+          "receivingDays": "Mon Tue Wed Thu",
+          "processingTimeUOM": "MINUTES",
+          "nodeBufferUOM": "MINUTES"
+        },
+        "DELIVERY": {
+          "orderStartTime": "06:00",
+          "orderEndTime": "15:00",
+          "processingTime": 360,
+          "nodeBuffer": 0,
+          "nodeBufferDays": 0,
+          "bossProcessingTime": 1440,
+          "sosCutOffTime": null,
+          "startOffsetValue": 60,
+          "endOffsetValue": 60,
+          "receivingDays": "Mon Tue Wed Thu",
+          "processingTimeUOM": null,
+          "nodeBufferUOM": null
+        }
+      }
+    }
+  ],
+  "disabledNodes": {
+    "cost": [],
+    "leadTime": [],
+    "fulfillment": [],
+    "atp": [],
+    "capacity": []
+  }
+}

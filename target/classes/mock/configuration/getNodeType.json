@@ -1,0 +1,22 @@
+[
+  {
+    "nodeTypeCode": 3,
+    "shortDescription": "Millwork Shop"
+  },
+  {
+    "nodeTypeCode": 1,
+    "shortDescription": "store"
+  },
+  {
+    "nodeTypeCode": 4,
+    "shortDescription": "IFC"
+  },
+  {
+    "nodeTypeCode": 2,
+    "shortDescription": "DC"
+  },
+  {
+    "nodeTypeCode": 5,
+    "shortDescription": "vendor"
+  }
+]

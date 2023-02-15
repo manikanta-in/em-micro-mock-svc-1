@@ -1,0 +1,43 @@
+{
+  "subject": "qat552",
+  "email": "QAT552@homedepot.com",
+  "decoded_claims": {
+    "scope": "openid",
+    "client_id": "spiffe://homedepot.dev/proxtra-management",
+    "iss": "https://identity-qa.homedepot.com",
+    "sub": "qat552",
+    "uid_store": "qat552@@9100",
+    "token_type": "id_token",
+    "last_name": "QAT552",
+    "middle_name": "X",
+    "location_type": "DIV",
+    "department_number": "742",
+    "userType": "Associate",
+    "first_name": "TESTER",
+    "job_title": "ASSOC",
+    "email": "QAT552@homedepot.com",
+    "location_number": "9100",
+    "preferred_language": "en_US"
+  },
+  "roles": [
+    "TRIO ACCESS",
+    "SVOC_UPDATE_CUSTOMER",
+    "SVOC_SEARCH_CUSTOMER",
+    "SVOC_INSERT_CUSTOMER",
+    "CDA HDCOM AGENT",
+    "KD_Buss_Support",
+    "EMERGENCY VISIBILITY ADMIN",
+    "Pro SSC",
+    "Pro Bid Manager",
+    "gg_loyalty_stage_nam",
+    "gg_loyalty_dev_nam",
+    "gg_loyalty_dev_callcntr",
+    "gg_loyalty_stage_callcntr",
+    "GG_RSA_MFA_Token_Access_Request",
+    "GG_BI_MSTR_STR_OPS_RPTG",
+    "GG_BI_MSTR_All_Store_Associates_Pilot",
+    "GG_BI_MSTR_Pro_SSC",
+    "GG_BI_MSTR_Reporter",
+    "GG_GPO_CSE_User_UAT3"
+  ]
+}

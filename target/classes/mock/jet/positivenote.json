@@ -1,0 +1,10 @@
+{
+  "positiveNote": [
+    {
+      "note": "Let's make people happy today!"
+    }
+  ],
+  "errors": [],
+  "dataSource": "DYNAMO",
+  "alertFlag": "FALSE"
+}

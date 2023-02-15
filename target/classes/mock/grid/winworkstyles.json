@@ -1,0 +1,26 @@
+{
+  "id": "4b476857-ce64-41fa-b239-867914c7d07c",
+  "order": 0,
+  "name": "b nmvm",
+  "enabled": "No",
+  "enabledOnDemand": "No",
+  "appRules": 0,
+  "onDemandRules": 0,
+  "description": "",
+  "activityLevelTypes": [
+    "Summary",
+    "Activity",
+    "Detailed"
+  ],
+  "logEvent": false,
+  "logActivity": false,
+  "activityLevel": "Activity",
+  "maxActivityRecords": 0,
+  "keepLogs": 0,
+  "defaultMaxRecords": 100,
+  "defaultMaxLogs": 14,
+  "nameWithUrl": {
+    "text": "b nmvm",
+    "url": "web-policy-editor/workstyles/4b476857-ce64-41fa-b239-867914c7d07c"
+  }
+}

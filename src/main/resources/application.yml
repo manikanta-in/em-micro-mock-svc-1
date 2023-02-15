@@ -6,6 +6,8 @@ logging:
         web: DEBUG
         org.springframework.cloud: debug
 
+time : 30s
+
 server:
    port: 9444
 spring:
@@ -21,9 +23,10 @@ spring:
 
     cloud.stream.bindings.input-in-0.destination: verifications
     datasource:
-        jdbc-url: jdbc:oracle:thin:@localhost:1521:orcl
-        password: BATCH
-        username: BATCH
+      jdbc-url: jdbc:oracle:thin:@localhost:1521:xe
+      password: labmapper
+      username: labmapper
+      driver-class-name: oracle.jdbc.driver.OracleDriver
     jpa:
       database-platform: org.hibernate.dialect.Oracle12cDialect
     h2:

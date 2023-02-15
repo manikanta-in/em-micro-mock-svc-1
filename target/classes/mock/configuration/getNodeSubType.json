@@ -1,0 +1,54 @@
+[
+  {
+    "nodeSubTypeCode": 6,
+    "shortDescription": "BDC"
+  },
+  {
+    "nodeSubTypeCode": 12,
+    "shortDescription": "Reverse Recovery DC"
+  },
+  {
+    "nodeSubTypeCode": 11,
+    "shortDescription": "TDC"
+  },
+  {
+    "nodeSubTypeCode": 10,
+    "shortDescription": "Millwork Shop"
+  },
+  {
+    "nodeSubTypeCode": 9,
+    "shortDescription": "FDC"
+  },
+  {
+    "nodeSubTypeCode": 1,
+    "shortDescription": "store"
+  },
+  {
+    "nodeSubTypeCode": 3,
+    "shortDescription": "CDT"
+  },
+  {
+    "nodeSubTypeCode": 7,
+    "shortDescription": "CHF"
+  },
+  {
+    "nodeSubTypeCode": 4,
+    "shortDescription": "DFC"
+  },
+  {
+    "nodeSubTypeCode": 2,
+    "shortDescription": "ADC"
+  },
+  {
+    "nodeSubTypeCode": 5,
+    "shortDescription": "RDC"
+  },
+  {
+    "nodeSubTypeCode": 8,
+    "shortDescription": "DC"
+  },
+  {
+    "nodeSubTypeCode": 13,
+    "shortDescription": "vendor"
+  }
+]

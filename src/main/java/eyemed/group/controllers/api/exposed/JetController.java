@@ -165,7 +165,11 @@ public class JetController {
     return new ResponseEntity<Map<Object, Object>>(response, HttpStatus.OK);
   }
 
-
+  @PostMapping(value = "/flight/seatmgmt/needseat")
+  public ResponseEntity<Map<Object, Object>> needseatNew(@RequestBody Map data) {
+    Map<Object, Object> response = MockUtil.convertJsonIntoMap("mock/jet/needseat.json");
+    return new ResponseEntity<Map<Object, Object>>(response, HttpStatus.OK);
+  }
 
 
 }

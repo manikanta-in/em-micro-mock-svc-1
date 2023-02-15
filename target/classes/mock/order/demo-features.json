@@ -1,0 +1,344 @@
+[
+  {
+    "actions": "view",
+    "subject": [
+      "settings",
+      "benefitTags",
+      "businesstools",
+      "agreementrules",
+      "purchasehistory",
+      "users",
+      "segments",
+      "search",
+      "campaigns",
+      "cardsaccounts",
+      "configservice",
+      "programs",
+      "perks",
+      "rewards",
+      "customer",
+      "tierdetails"
+    ]
+  },
+  {
+    "actions": "edit",
+    "subject": [
+      "settings",
+      "benefitTags",
+      "users",
+      "segments",
+      "campaigns",
+      "cardsaccounts",
+      "programs",
+      "rewards"
+    ]
+  },
+  {
+    "actions": "switch",
+    "subject": [
+      "role"
+    ]
+  },
+  {
+    "actions": "add",
+    "subject": [
+      "benefitTags",
+      "users",
+      "segments",
+      "campaigns",
+      "cardsaccounts",
+      "programs",
+      "rewards"
+    ]
+  },
+  {
+    "actions": "delete",
+    "subject": [
+      "benefitTags",
+      "campaigns"
+    ]
+  },
+  {
+    "actions": "remove_receipts",
+    "subject": [
+      "purchasehistory"
+    ]
+  },
+  {
+    "actions": "assign_user_to_purchases",
+    "subject": [
+      "purchasehistory"
+    ]
+  },
+  {
+    "actions": "add_receipts",
+    "subject": [
+      "purchasehistory"
+    ]
+  },
+  {
+    "actions": "edit_po",
+    "subject": [
+      "purchasehistory"
+    ]
+  },
+  {
+    "actions": "add_bulk_receipts",
+    "subject": [
+      "purchasehistory"
+    ]
+  },
+  {
+    "actions": "edit_creditcard_nickname",
+    "subject": [
+      "cardsaccounts"
+    ]
+  },
+  {
+    "actions": "stop_authorization",
+    "subject": [
+      "cardsaccounts"
+    ]
+  },
+  {
+    "actions": "edit_creditcard_exp_month",
+    "subject": [
+      "cardsaccounts"
+    ]
+  },
+  {
+    "actions": "authorization",
+    "subject": [
+      "cardsaccounts"
+    ]
+  },
+  {
+    "actions": "enable_bulk_upload",
+    "subject": [
+      "cardsaccounts"
+    ]
+  },
+  {
+    "actions": "edit_giftcard_status",
+    "subject": [
+      "cardsaccounts"
+    ]
+  },
+  {
+    "actions": "edit_creditcard_address",
+    "subject": [
+      "cardsaccounts"
+    ]
+  },
+  {
+    "actions": "edit_creditcard_exp_year",
+    "subject": [
+      "cardsaccounts"
+    ]
+  },
+  {
+    "actions": "edit_checkingaccount_nickname",
+    "subject": [
+      "cardsaccounts"
+    ]
+  },
+  {
+    "actions": "bulk_upload",
+    "subject": [
+      "cardsaccounts",
+      "customer"
+    ]
+  },
+  {
+    "actions": "edit_creditcard_name_on_card",
+    "subject": [
+      "cardsaccounts"
+    ]
+  },
+  {
+    "actions": "remove",
+    "subject": [
+      "cardsaccounts"
+    ]
+  },
+  {
+    "actions": "edit_keytag_nickname",
+    "subject": [
+      "cardsaccounts"
+    ]
+  },
+  {
+    "actions": "share",
+    "subject": [
+      "cardsaccounts"
+    ]
+  },
+  {
+    "actions": "t2c",
+    "subject": [
+      "cardsaccounts"
+    ]
+  },
+  {
+    "actions": "edit_giftcard_nickname",
+    "subject": [
+      "cardsaccounts"
+    ]
+  },
+  {
+    "actions": "swipe_add_card",
+    "subject": [
+      "cardsaccounts"
+    ]
+  },
+  {
+    "actions": "reissue_exchange",
+    "subject": [
+      "perks"
+    ]
+  },
+  {
+    "actions": "admin_issue",
+    "subject": [
+      "perks"
+    ]
+  },
+  {
+    "actions": "edit_address",
+    "subject": [
+      "customer"
+    ]
+  },
+  {
+    "actions": "edit_bulk_upload",
+    "subject": [
+      "customer"
+    ]
+  },
+  {
+    "actions": "pro_paint_adjust_tier",
+    "subject": [
+      "customer"
+    ]
+  },
+  {
+    "actions": "delete_address",
+    "subject": [
+      "customer"
+    ]
+  },
+  {
+    "actions": "edit_primary",
+    "subject": [
+      "customer"
+    ]
+  },
+  {
+    "actions": "upgrade",
+    "subject": [
+      "customer"
+    ]
+  },
+  {
+    "actions": "pgm_adjust",
+    "subject": [
+      "customer"
+    ]
+  },
+  {
+    "actions": "pref_price_view_all",
+    "subject": [
+      "customer"
+    ]
+  },
+  {
+    "actions": "edit_customer_ein",
+    "subject": [
+      "customer"
+    ]
+  },
+  {
+    "actions": "pgm_enroll",
+    "subject": [
+      "customer"
+    ]
+  },
+  {
+    "actions": "edit_customer",
+    "subject": [
+      "customer"
+    ]
+  },
+  {
+    "actions": "pgm_unsuspend",
+    "subject": [
+      "customer"
+    ]
+  },
+  {
+    "actions": "edit_secondary",
+    "subject": [
+      "customer"
+    ]
+  },
+  {
+    "actions": "search_by_cc",
+    "subject": [
+      "customer"
+    ]
+  },
+  {
+    "actions": "nab_adjust",
+    "subject": [
+      "customer"
+    ]
+  },
+  {
+    "actions": "reset_pw",
+    "subject": [
+      "customer"
+    ]
+  },
+  {
+    "actions": "nab_enroll",
+    "subject": [
+      "customer"
+    ]
+  },
+  {
+    "actions": "add_address",
+    "subject": [
+      "customer"
+    ]
+  },
+  {
+    "actions": "edit_customer_tax_id",
+    "subject": [
+      "customer"
+    ]
+  },
+  {
+    "actions": "adjust_tier",
+    "subject": [
+      "customer"
+    ]
+  },
+  {
+    "actions": "remove_address",
+    "subject": [
+      "customer"
+    ]
+  },
+  {
+    "actions": "view_address",
+    "subject": [
+      "customer"
+    ]
+  },
+  {
+    "actions": "register",
+    "subject": [
+      "customer"
+    ]
+  }
+]

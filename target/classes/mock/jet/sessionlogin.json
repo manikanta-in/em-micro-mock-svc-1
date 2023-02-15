@@ -1,0 +1,43 @@
+{
+  "tokenDetails": {
+    "token_type": "Bearer",
+    "access_token": "rlWuoTpvBvWFHmV1AvVfVzgcMPV6VwN4ZTR2MwqvYGt2AGZgATHjLl05AGp4YGD4BTEuAzMvMzR2LvW9.NNV4DJylpT9lqSOfLKEzo3WgK1IOGS8lZmuPEGZ3Av0jAwRmYGERAGtgBHR3Dv0jEQRjZxZ0D0RlAxUuJVkRp-MEolhm4cLLao4reeHxb1g3O_SJbcDplszu8QBG10--9EpLeykgUp3l1pFB9dIKHl589QiseDMAdmN12PTJ2_2jyMRjP7X2wRRKQIVO8ftum9oM_8Acy8hKr9G9GMCenzzm8ubt_xYD1G64dD0LjaDcFnWyPLT-uIJFqYc9lfM2DfpyGKqJI7rAzej.V5naSwzWcV3CUSKn3Fx7aZoCqk4mEW3FQAbYTvtZsm7tlitV-U5wed_4_4I5qwe5I5KY65-oG0859F7ce25r4VNU6JMB6Hn6pqTZvUCwprpg5IWLiI3mJV4NfuqbCfTA8AOiF-jzPwn9M1YFOWswGT05uDKwhKU74oqdyqZexvKeza3RJVEajDPHnK4vmZFQJjWI1b9Lbl99wPbVXJtdfi3MbjObDGxGzplW_f_ojtOiqjOW_DsjSMPH7alpYG_EIXwAiHoRuLqMxx1KKk6pPBqH5kPVLa_1x6xJ85hU-eFycyfpO5doTTIYFsD8NZsdfcAek1C7iUiqInB69sxQvN.rlW2MKVvBvVkYwNvYPWdqTxvBvVkAGt1AmR4AF00LwtkYGD5ZQNgBTV2Lv01L2Z0ZmNjZQNkLzHvYPWmqJVvBvVkAGt1AmR4AF00LwtkYGD5ZQNgBTV2Lv01L2Z0ZmNjZQNkLzHvYPWcp3ZvBvWbqUEjpmbiY2AmoJZhpJRhLKI0nP51ozy0MJDhL29gY29uqKEbZv92ZFVfVzS1MPV6VxScpaOipaEDoTS0Mz9loI9IDHksZwZ4DxHmAmLgZQLkZl00EQH4YGyOA0VgZRDkZQWQARAOZwMOVvjvnJS0VwbkAwD4ZQD2AmxmYPWyrUNvBwR2AQtjAGNmBGZfVzSgpvV6JlWjq2DvKFjvLKI0nS90nJ1yVwbkAwD4ZQD2AmxmYPWho25wMFV6VwETEGMwM094oxkwGvVfVzS0K2uup2tvBvWjBTccEauPnR8iBKDkJab5ARSAryO3CG0vYPW1pTEuqTIxK2S0VwbkAwD4ZQD2AmxmYPWwoTyyoaEsLKOjoTywLKEco25snJDvBvWOnKWjo3W0HTkuqTMipz1sIHSZKmVmBRWSZmp2YGN2ZGZgARD1BP05DGqPYGORZGNlDmEQDGV2DFVfVaImMKWHrKOyVwbvM3Iyp3DvYPWwoTyyoaEsnJDvBvWOnKWjo3W0HTkuqTMipz1sIHSZKmVmBRWSZmp2YGN2ZGZgARD1BP05DGqPYGORZGNlDmEQDGV2DFVfVzIhMSImMKWOM2IhqRyDVwbvZGV3YwNhZP4kVa0",
+    "expires_in": 3600,
+    "consented_on": 1648046793,
+    "scope": "openid airportplatform",
+    "grant_type": "application",
+    "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjA4MGE2ZjdiLTg2NTMtNGUwYy05NTc4LTQ4OGRhNmZiZmE2YiJ9.eyJ2ZXIiOiIxLjAiLCJqdGkiOiIxNTg1NzE4NS00YjgxLTQ5MDAtOGI2Yi01Y2M0MzAwMDAxYmUiLCJzdWIiOiIxNTg1NzE4NS00YjgxLTQ5MDAtOGI2Yi01Y2M0MzAwMDAxYmUiLCJpc3MiOiJodHRwczovL2NzbWMucWEuYXV0aC51bml0ZWQuY29tL29hdXRoMi92MSIsImF1ZCI6IkFpcnBvcnRQbGF0Zm9ybV9VQUxfMjM4QkUzNzYtMDYxMy00RDU4LTlBN0ItMEQxMDJDNENBMjZBIiwiaWF0IjoxNjQ4MDQ2NzkzLCJleHAiOjE2NDgwNTAzOTMsImFtciI6WyJwd2QiXSwiYXV0aF90aW1lIjoxNjQ4MDQ2NzkzLCJub25jZSI6IjRGRTZjZ094bkxjTiIsImF0X2hhc2giOiJwOGppRnhCaE8vOXQxWno5NEFNelB3PT0iLCJ1cGRhdGVkX2F0IjoxNjQ4MDQ2NzkzLCJjbGllbnRfYXBwbGljYXRpb25faWQiOiJBaXJwb3J0UGxhdGZvcm1fVUFMXzIzOEJFMzc2LTA2MTMtNEQ1OC05QTdCLTBEMTAyQzRDQTI2QSIsInVzZXJUeXBlIjoiZ3Vlc3QiLCJjbGllbnRfaWQiOiJBaXJwb3J0UGxhdGZvcm1fVUFMXzIzOEJFMzc2LTA2MTMtNEQ1OC05QTdCLTBEMTAyQzRDQTI2QSIsImVuZFVzZXJBZ2VudElQIjoiMTI3LjAuMC4xIn0.I5anFjmJpI3PHFXa3Sk7nMbPdx4zRJ3SDNoLGigMfz7gyvgI-H5jrq_4_4V5djr5V5XL65-bT0859S7pr25e4IAH6WZO6Ua6cdGMiHPjcect5VJYvV3zWI4AshdoPsGN8NBvS-wmCja9Z1LSBJfjTG05hQXjuXH74bdqldMrkiXrmn3EWIRnwQCUaX4izMSDWwJV1o9Yoy99jCoIKWgqsv3ZowBoQTkTmcyJ_s_bwgBvdwBJ_QfwFZCU7nycLT_RVKjNvUbEhYdZkk1XXx6cCOdU5xCIYn_1k6kW85uH-rSlplscB5qbGGVLSfQ8AMfqspNrx1P7vHvdVaO69fkDiA",
+    "refresh_token": null,
+    "refresh_token_expires_in": null
+  },
+  "sessionLogin": {
+    "message": [
+      {
+        "key": "Token",
+        "value": "15857185-4b81-4900-8b6b-5cc4300001be"
+      },
+      {
+        "key": "SessionToken",
+        "value": "15857185-4b81-4900-8b6b-5cc4300001be"
+      },
+      {
+        "key": "LEID",
+        "value": "D1BA66"
+      },
+      {
+        "key": "LEID-Decimal",
+        "value": "D1BA66"
+      }
+    ],
+    "processTime": 19
+  },
+  "activeSessions": null,
+  "airportCode": "EWR",
+  "isLocationDisabled": false,
+  "sessionId": "06d92d77-e40a-428a-9d36-42d86057b5c7",
+  "shareSigninId": "Flp5HtEul9zIrg1pZ29DMQ==",
+  "oldDpToken": "",
+  "errors": null,
+  "dataSource": "CSL",
+  "alertFlag": "FALSE"
+}

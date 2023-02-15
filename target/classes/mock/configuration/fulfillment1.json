@@ -1,0 +1,126 @@
+{
+  "nodeDetails": [
+    {
+      "nodeId": 4888,
+      "nodeSubType": "RDC",
+      "fulfillment": {
+        "PARCEL": {
+          "fulfillmentType": "PARCEL",
+          "fulfillmentTypeEnabled": true,
+          "fulfillmentTypeEligibility": true,
+          "fulfillmentTypeInactiveStartDate": null,
+          "fulfillmentTypeInactiveEndDate": null
+        },
+        "PUIS": {
+          "fulfillmentType": "PUIS",
+          "fulfillmentTypeEnabled": true,
+          "fulfillmentTypeEligibility": true,
+          "fulfillmentTypeInactiveStartDate": null,
+          "fulfillmentTypeInactiveEndDate": null
+        },
+        "DELIVERY": {
+          "fulfillmentType": "DELIVERY",
+          "fulfillmentTypeEnabled": true,
+          "fulfillmentTypeEligibility": true,
+          "fulfillmentTypeInactiveStartDate": null,
+          "fulfillmentTypeInactiveEndDate": null
+        }
+      }
+    },
+    {
+      "nodeId": 88,
+      "nodeSubType": "store",
+      "fulfillment": {
+        "PARCEL": {
+          "fulfillmentType": "PARCEL",
+          "fulfillmentTypeEnabled": false,
+          "fulfillmentTypeEligibility": false,
+          "fulfillmentTypeInactiveStartDate": null,
+          "fulfillmentTypeInactiveEndDate": null
+        },
+        "PUIS": {
+          "fulfillmentType": "PUIS",
+          "fulfillmentTypeEnabled": true,
+          "fulfillmentTypeEligibility": true,
+          "fulfillmentTypeInactiveStartDate": null,
+          "fulfillmentTypeInactiveEndDate": null
+        },
+        "DELIVERY": {
+          "fulfillmentType": "DELIVERY",
+          "fulfillmentTypeEnabled": true,
+          "fulfillmentTypeEligibility": true,
+          "fulfillmentTypeInactiveStartDate": null,
+          "fulfillmentTypeInactiveEndDate": null
+        }
+      }
+    },
+    {
+      "nodeId": 6426,
+      "nodeSubType": "store",
+      "fulfillment": {
+        "PARCEL": {
+          "fulfillmentType": "PARCEL",
+          "fulfillmentTypeEnabled": false,
+          "fulfillmentTypeEligibility": false,
+          "fulfillmentTypeInactiveStartDate": null,
+          "fulfillmentTypeInactiveEndDate": null
+        },
+        "PUIS": {
+          "fulfillmentType": "PUIS",
+          "fulfillmentTypeEnabled": true,
+          "fulfillmentTypeEligibility": true,
+          "fulfillmentTypeInactiveStartDate": null,
+          "fulfillmentTypeInactiveEndDate": null
+        },
+        "DELIVERY": {
+          "fulfillmentType": "DELIVERY",
+          "fulfillmentTypeEnabled": true,
+          "fulfillmentTypeEligibility": true,
+          "fulfillmentTypeInactiveStartDate": null,
+          "fulfillmentTypeInactiveEndDate": null
+        }
+      }
+    },
+    {
+      "nodeId": 3454,
+      "nodeSubType": "DFC",
+      "fulfillment": {
+        "PARCEL": {
+          "fulfillmentType": "PARCEL",
+          "fulfillmentTypeEnabled": true,
+          "fulfillmentTypeEligibility": true,
+          "fulfillmentTypeInactiveStartDate": null,
+          "fulfillmentTypeInactiveEndDate": null
+        },
+        "LTL": {
+          "fulfillmentType": "LTL",
+          "fulfillmentTypeEnabled": false,
+          "fulfillmentTypeEligibility": true,
+          "fulfillmentTypeInactiveStartDate": null,
+          "fulfillmentTypeInactiveEndDate": null
+        },
+        "PUIS": {
+          "fulfillmentType": "PUIS",
+          "fulfillmentTypeEnabled": false,
+          "fulfillmentTypeEligibility": true,
+          "fulfillmentTypeInactiveStartDate": "09-09-2022",
+          "fulfillmentTypeInactiveEndDate": "12-09-2022"
+        },
+        "DELIVERY": {
+          "fulfillmentType": "DELIVERY",
+          "fulfillmentTypeEnabled": true,
+          "fulfillmentTypeEligibility": true,
+          "fulfillmentTypeInactiveStartDate": null,
+          "fulfillmentTypeInactiveEndDate": null
+        }
+      }
+    }
+  ],
+  "disabledNodes": {
+    "cost": [],
+    "leadTime": [],
+    "fulfillment": [],
+    "atp": [],
+    "capacity": []
+  }
+}

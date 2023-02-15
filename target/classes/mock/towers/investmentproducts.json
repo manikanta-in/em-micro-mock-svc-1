@@ -1,0 +1,296 @@
+{
+  "product": {
+    "active": true,
+    "activeIndicator": 1,
+    "id": "2159",
+    "name": "Retirement Funds",
+    "lastUpdateUserId": "RptRtzAM",
+    "lastUpdateUserTimeStamp": "2016-03-03T18:11:39.000",
+    "sourceSysProductId": "ECM3",
+    "sourceSystem": "PRD",
+    "sourceSystemId": "569",
+    "fundCode": "ECM3",
+    "productType": "FUND",
+    "productTypeId": "2",
+    "owningBusinessUnitId": "97",
+    "owningBusinessUnit": "TRP",
+    "owningTRPOfficeId": "12",
+    "owningTRPOffice": "Baltimore",
+    "investmentVehicleTypeId": "115",
+    "investmentVehicleType": "US Domiciled Mutual Fund (excluding VIP)",
+    "strategyId": "1007",
+    "strategy": "Multi-Asset - Retirement Funds",
+    "baseCurrency": "USD",
+    "worldMarket": "US",
+    "worldMarketId": "2548",
+    "assetSubClass": "Asset Allocation",
+    "assetSubClassId": "2547",
+    "feeType": "Net",
+    "feeTypeId": "2528",
+    "reportingCurrency": "Local",
+    "reportingCurrencyId": "2144",
+    "alternateInceptionDate": "2002-09-30T00:00:00.000",
+    "productDateFormatId": 130,
+    "productDateFormat": "m/d/yy",
+    "benchmark": [],
+    "specialist": [
+      {
+        "id": 2159,
+        "name": "Ali Lynch",
+        "cnyId": 188
+      },
+      {
+        "id": 2159,
+        "name": "Ali Lynch",
+        "cnyId": 188
+      },
+      {
+        "id": 2159,
+        "name": "Ali Lynch",
+        "cnyId": 188
+      },
+      {
+        "id": 2159,
+        "name": "Aaron Johnson",
+        "cnyId": 188
+      },
+      {
+        "id": 2159,
+        "name": "Matthew Gross",
+        "cnyId": 188
+      },
+      {
+        "id": 2159,
+        "name": "Matthew Gross",
+        "cnyId": 188
+      },
+      {
+        "id": 2159,
+        "name": "Matthew Gross",
+        "cnyId": 188
+      }
+    ],
+    "deliverables": [
+      {
+        "id": 9109,
+        "name": null,
+        "cnyId": 188
+      },
+      {
+        "id": 9277,
+        "name": null,
+        "cnyId": 188
+      },
+      {
+        "id": 9789,
+        "name": "Retirement Date Funds",
+        "cnyId": 188
+      },
+      {
+        "id": 9908,
+        "name": null,
+        "cnyId": 188
+      },
+      {
+        "id": 20025,
+        "name": null,
+        "cnyId": 188
+      },
+      {
+        "id": 22944,
+        "name": "USD",
+        "cnyId": 188
+      },
+      {
+        "id": 19667,
+        "name": null,
+        "cnyId": 188
+      }
+    ],
+    "clientId": "1",
+    "clientName": "T.Rowe Price",
+    "hasMasterReport": false,
+    "balanceAmount": 0.0,
+    "synchronized": false,
+    "value": "",
+    "sicavflag": "N",
+    "pamflag": "N",
+    "CRMInactiveIndicator": 0
+  },
+  "productPortfolioManagerGroups": [
+    {
+      "portfolioManagerGroups": [
+        {
+          "id": "7124394326431384175",
+          "portfolioManagerGroupName": {
+            "groupId": "102818",
+            "groupName": "Clark, Jerome A."
+          },
+          "recipient": {
+            "active": true,
+            "activeIndicator": 1,
+            "lastUpdateUserId": "WD_SYNC",
+            "lastUpdateUserTimeStamp": "2019-11-14T19:30:20.000",
+            "rcpId": 4164,
+            "recipientTypeId": 125,
+            "recipientTypeName": "Employee",
+            "pamIndicator": "N",
+            "changed": false,
+            "person": {
+              "active": true,
+              "activeIndicator": 1,
+              "firstName": "Wyatt",
+              "lastName": "Lee",
+              "userId": "FXI8644",
+              "email": "wyatt.lee@troweprice.com",
+              "sicavflag": "N",
+              "pamflag": "N"
+            },
+            "keyContactIndicator": 0,
+            "internal": false,
+            "primary": false,
+            "synchronized": false,
+            "value": "",
+            "sicavflag": "N",
+            "pamflag": "N",
+            "CRMInactiveIndicator": 0
+          },
+          "jobTitleBeginDate": "2015-08-04T04:00:00.000",
+          "displaySequenceNumber": 0
+        },
+        {
+          "id": "9223349287163743125",
+          "portfolioManagerGroupName": {
+            "groupId": "102818",
+            "groupName": "Clark, Jerome A."
+          },
+          "recipient": {
+            "active": true,
+            "activeIndicator": 1,
+            "lastUpdateUserId": "QC2027LD",
+            "lastUpdateUserTimeStamp": "2015-05-28T17:35:22.000",
+            "rcpId": 2201,
+            "recipientTypeId": 125,
+            "recipientTypeName": "Employee",
+            "pamIndicator": "N",
+            "ignGoldSrcIndicator": "Y",
+            "changed": false,
+            "person": {
+              "active": true,
+              "activeIndicator": 1,
+              "lastUpdateUserId": "QC738_LD",
+              "lastUpdateUserTimeStamp": "2013-09-24T17:36:32.000",
+              "firstName": "Radha",
+              "lastName": "Yanamandra",
+              "userId": "APP9V96",
+              "email": "radha_yanamandra@troweprice.com",
+              "employeeSignature": {
+                "active": true,
+                "activeIndicator": 1,
+                "id": "740",
+                "detailXmlText": "{\"div\": {\"id\": \"signatureDIV\", \"div\": [{\"div\": [{\"id\": \"FNAME\", \"content\": \"Radha Yanamandra\"}, {\"id\": \"DEPARTMENT\", \"content\": \"WIP Team | Programmer\"}], \"class\": \"topSignature\"}, {\"div\": [{\"id\": \"COMPANY\", \"content\": \"T. Rowe Price\"}, {\"id\": \"STREETADDRESS1\", \"content\": \"10090 Red Run Blvd\"}, {\"id\": \"STREETADDRESS2\", \"content\": \"Owings Mills, MD 21117\"}, {\"id\": \"OFFICEPHONE\", \"content\": \"Office: (301) 279-9604\"}, {\"id\": \"EMAIL\", \"content\": \"E-mail: radha_yanamandra@troweprice.com\"}, {\"id\": \"END\", \"content\": \"Please consider the environment before printing this email.\"}], \"class\": \"bottomSignature\"}], \"style\": {\"type\": \"text/css\", \"content\": \".topSignature{font-family: Arial;font-size: 14px;font-weight: bold;color: #808080;margin:0px;}.bottomSignature{font-family: Arial;font-size: 10px;color: #808080;margin:0px;line-height:15px;}\"}}}",
+                "sicavflag": "N",
+                "pamflag": "N"
+              },
+              "sicavflag": "N",
+              "pamflag": "N"
+            },
+            "keyContactIndicator": 0,
+            "internal": false,
+            "primary": false,
+            "synchronized": false,
+            "value": "",
+            "sicavflag": "N",
+            "pamflag": "N",
+            "CRMInactiveIndicator": 0
+          },
+          "jobTitleBeginDate": "2022-03-12T05:00:00.000",
+          "displaySequenceNumber": 4
+        },
+        {
+          "id": "7241583345131669813",
+          "portfolioManagerGroupName": {
+            "groupId": "102818",
+            "groupName": "Clark, Jerome A."
+          },
+          "recipient": {
+            "active": true,
+            "activeIndicator": 1,
+            "lastUpdateUserId": "WD_SYNC",
+            "lastUpdateUserTimeStamp": "2019-11-15T19:30:24.000",
+            "rcpId": 6331,
+            "recipientTypeId": 125,
+            "recipientTypeName": "Employee",
+            "pamIndicator": "N",
+            "changed": false,
+            "person": {
+              "active": true,
+              "activeIndicator": 1,
+              "firstName": "Kim",
+              "lastName": "DeDominicis",
+              "userId": "RMS6435",
+              "email": "kim.dedominicis@troweprice.com",
+              "sicavflag": "N",
+              "pamflag": "N"
+            },
+            "keyContactIndicator": 0,
+            "internal": false,
+            "primary": false,
+            "synchronized": false,
+            "value": "",
+            "sicavflag": "N",
+            "pamflag": "N",
+            "CRMInactiveIndicator": 0
+          },
+          "jobTitleBeginDate": "2019-10-25T04:00:00.000",
+          "displaySequenceNumber": 2
+        },
+        {
+          "id": "2306922675695732524",
+          "portfolioManagerGroupName": {
+            "groupId": "102818",
+            "groupName": "Clark, Jerome A."
+          },
+          "recipient": {
+            "active": true,
+            "activeIndicator": 1,
+            "lastUpdateUserId": "WD_SYNC",
+            "lastUpdateUserTimeStamp": "2019-11-08T19:30:29.000",
+            "rcpId": 6380,
+            "recipientTypeId": 125,
+            "recipientTypeName": "Employee",
+            "pamIndicator": "N",
+            "changed": false,
+            "person": {
+              "active": true,
+              "activeIndicator": 1,
+              "firstName": "Andrew",
+              "lastName": "Jacobs van Merlen",
+              "middleName": "Gottfried",
+              "userId": "RMS9C73",
+              "email": "andrew.jacobs.van.merlen@troweprice.com",
+              "sicavflag": "N",
+              "pamflag": "N"
+            },
+            "keyContactIndicator": 0,
+            "internal": false,
+            "primary": false,
+            "synchronized": false,
+            "value": "",
+            "sicavflag": "N",
+            "pamflag": "N",
+            "CRMInactiveIndicator": 0
+          },
+          "jobTitleBeginDate": "2020-01-17T05:00:00.000",
+          "displaySequenceNumber": 3
+        }
+      ],
+      "investmentProductId": "2159",
+      "displaySequenceNumber": 0,
+      "portfolioManagerGroupName": {
+        "groupId": "102818",
+        "groupName": "Clark, Jerome A."
+      }
+    }
+  ]
+}
